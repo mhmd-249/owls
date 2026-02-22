@@ -57,7 +57,7 @@ Pre-Phase: Initial Setup
 - LLM: Claude Sonnet for agents (speed), Opus for aggregation (quality)
 - No database — JSON files for profiles, in-memory for test sessions
 - SSE for real-time streaming of agent responses
-- 30 characters visible on screen, representing 200 agents
+- 30 characters visible on screen, representing 198 agents
 - Simple SVG characters with thought bubbles
 
 ## Known Issues / Blockers

@@ -1,7 +1,7 @@
 # CrowdTest — Customer Digital Twin Simulation Engine
 
 ## What This Project Is
-A platform that transforms real customer data into AI-powered "digital twin" agents. Companies submit product ideas → agents respond as their real customers would → system aggregates into actionable insights. Built for H&M as demo, using 200 real customer profiles.
+A platform that transforms real customer data into AI-powered "digital twin" agents. Companies submit product ideas → agents respond as their real customers would → system aggregates into actionable insights. Built for H&M as demo, using 198 real customer profiles.
 
 ## Architecture
 Monorepo with two apps:
@@ -11,7 +11,7 @@ Monorepo with two apps:
 ## Tech Stack
 - **Frontend:** Next.js 14, TypeScript, Tailwind CSS, Framer Motion, Recharts
 - **Backend:** Python 3.11+, FastAPI, uvicorn, anthropic SDK, SSE (sse-starlette)
-- **LLM:** Claude API — Sonnet for agents (200 parallel), Opus for aggregation
+- **LLM:** Claude API — Sonnet for agents (198 parallel), Opus for aggregation
 - **Data:** JSON files for customer profiles (no database needed for MVP)
 - **Real-time:** Server-Sent Events from FastAPI → Next.js frontend
 
@@ -76,7 +76,7 @@ GET  /api/profiles/stats   — Profile statistics for UI
 
 ## IMPORTANT Rules
 - NEVER hardcode API keys. Use environment variables (ANTHROPIC_API_KEY).
-- Use `claude-sonnet-4-20250514` for agent calls (fast, cheap for 200 parallel).
+- Use `claude-sonnet-4-20250514` for agent calls (fast, cheap for 198 parallel).
 - Use `claude-opus-4-20250514` for the final aggregation/insight call (quality matters).
 - SSE responses must include `event:` and `data:` fields for proper parsing.
 - Every agent call must include the full customer persona in the system prompt.

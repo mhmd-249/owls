@@ -81,6 +81,6 @@
 
 1. **Run multiple Claude Code instances** — one for frontend, one for backend (use VS Code split terminals)
 2. **Pre-write your .env** file before starting so you're not hunting for keys
-3. **Test with 5-10 agents** during development, only scale to 200 for the final demo
+3. **Test with 5-10 agents** during development, only scale to 198 for the final demo
 4. **Don't perfect early phases** — get them working, move on, polish in Phase 6
 5. **Keep your H&M data clean** — garbage in = garbage out for persona quality

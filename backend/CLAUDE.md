@@ -42,7 +42,7 @@ backend/
 - `AGENT_MODEL` — Model for agent calls (default: claude-sonnet-4-20250514)
 - `AGGREGATION_MODEL` — Model for aggregation (default: claude-opus-4-20250514)
 - `MAX_CONCURRENT_AGENTS` — Semaphore limit (default: 50)
-- `MAX_AGENTS` — Total agents to run (default: 200)
+- `MAX_AGENTS` — Total agents to run (default: 198)
 - `PROFILES_DIR` — Path to profile JSONs (default: data/profiles)
 - `PROCESSED_DIR` — Path to generated personas (default: data/processed)
 

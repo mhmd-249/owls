@@ -134,7 +134,7 @@ Run the test and verify the persona prompts look realistic and detailed.
 
 ## Phase 2: Agent Execution Engine (Parallel Claude Calls)
 
-> **Goal:** Build the core engine that runs 200 agents in parallel with rate limiting.
+> **Goal:** Build the core engine that runs 198 agents in parallel with rate limiting.
 
 ### Prompt:
 ```
@@ -366,13 +366,13 @@ In `src/app/page.tsx`:
 
 ### Task 2: Chat Sidebar (`src/components/lab/ChatSidebar.tsx`)
 - Header with app logo/name "CrowdTest" and tagline "Test ideas with your digital customers"
-- A brief stats display: "200 customer agents ready" with small segment breakdown
+- A brief stats display: "198 customer agents ready" with small segment breakdown
 - A text area for product description input (6 lines tall, placeholder text)
 - Optional: a few quick-select category buttons (T-shirts, Pants, Dresses, Accessories)
 - A big "Run Test" button with loading state
 - Below the input, show a status feed:
-  - "Deploying 200 agents..." (when test starts)
-  - "42/200 agents responded..." (live counter)
+  - "Deploying 198 agents..." (when test starts)
+  - "42/198 agents responded..." (live counter)
   - "Generating insights..." (when aggregation starts)
   - Link to "View Full Insights →" when done
 
@@ -406,7 +406,7 @@ Props: id, color, position (x, y), isThinking (boolean), thoughtContent (string 
   - Pick a random character that hasn't shown a thought yet
   - Display their thought bubble for 5 seconds
   - After 5 seconds, reset that character and they can be used again
-- Progress overlay: "{n}/200 responses" counter in top-right corner
+- Progress overlay: "{n}/198 responses" counter in top-right corner
 - When all responses in: brief celebratory moment (characters could all bounce once, or a subtle particle effect)
 - Then show "Insights Ready!" banner with link to insights page
 
@@ -486,7 +486,7 @@ Read docs/HANDOFF.md for Phase 1-4 status.
 - Maybe color-coded by sentiment association
 
 ### Task 6: Response Drill-Down (`src/components/insights/ResponseDrillDown.tsx`)
-- Searchable/filterable table of all 200 individual responses
+- Searchable/filterable table of all 198 individual responses
 - Columns: Agent Name, Age, Segment, Sentiment, Response (truncated)
 - Click to expand and see full response
 - Filter by: sentiment (positive/neutral/negative), segment
@@ -523,7 +523,7 @@ Read docs/HANDOFF.md for Phase 1-5 status.
 Test the complete flow:
 1. User opens app → sees Testing Lab with idle characters
 2. User types product description → clicks "Run Test"
-3. Backend creates test, starts 200 agents in parallel
+3. Backend creates test, starts 198 agents in parallel
 4. SSE streams responses → characters animate with thought bubbles
 5. Progress counter updates in real-time
 6. When all agents done → "Generating insights..." status
@@ -556,7 +556,7 @@ Fix any issues in this flow.
 - Pre-fill a compelling example product description in the input placeholder
 - Add a "Try Example" button that fills in a pre-written product description
 - Ensure the first-time experience is clear (what to do, what to expect)
-- If running with fewer than 200 agents for demo (e.g., 50), make sure the crowd still looks full
+- If running with fewer than 198 agents for demo (e.g., 50), make sure the crowd still looks full
 
 ### Task 6: Environment Configuration
 - Make sure `.env.example` files are complete for both frontend and backend
@@ -586,7 +586,7 @@ Read docs/HANDOFF.md for Phase 1-6 status.
 
 ### Task 1: Performance Optimization
 - Pre-cache persona prompts so they're loaded at startup
-- Verify 200 agents complete in under 2 minutes
+- Verify 198 agents complete in under 2 minutes
 - If too slow, reduce to 100 or 50 agents for demo and adjust UI accordingly
 - Ensure SSE stream doesn't lag — responses should appear within 1 second of completing
 
@@ -607,7 +607,7 @@ Create `docs/DEMO_SCRIPT.md` with a step-by-step demo script:
 
 ### Task 4: Final Checklist
 - [ ] Both servers start without errors
-- [ ] Full test with 200 agents completes successfully
+- [ ] Full test with 198 agents completes successfully
 - [ ] All UI components render correctly
 - [ ] No console errors
 - [ ] Insights are accurate and well-written

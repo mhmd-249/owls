@@ -1,135 +1,2564 @@
 {
-  "HM-SE-2019-00147": {
-    "persona_file": "HM-SE-2019-00147.txt",
-    "name": "Astrid Lindqvist",
+  "67694d9f4fedbbc118859e275f9456928524b118c7e9104b2ecf76dfb99f4dfc": {
+    "persona_file": "backend/data/processed/persona_000_alex.txt",
+    "display_name": "Alex",
+    "age": 44,
+    "purchase_count": 63,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "628c07cd2db2b6b9036e0f842155e2f49b7021ab18fccfe922040fca3381c9ad": {
+    "persona_file": "backend/data/processed/persona_001_sam.txt",
+    "display_name": "Sam",
+    "age": 59,
+    "purchase_count": 5,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "1fb3b0c223402c8a4c3c02e4260c8d88c1afa5c55f4f6db06a52b24c875ee742": {
+    "persona_file": "backend/data/processed/persona_002_jordan.txt",
+    "display_name": "Jordan",
+    "age": 44,
+    "purchase_count": 28,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2f8660e95a2d986c48079fb4f600cf317809522429d1c6e0b869a4138b3a47ae": {
+    "persona_file": "backend/data/processed/persona_003_morgan.txt",
+    "display_name": "Morgan",
     "age": 28,
-    "gender": "female",
-    "location": "Stockholm, Sweden",
+    "purchase_count": 1,
     "segments": [
-      "sustainable_fashion",
-      "basics_buyer",
-      "workwear_professional"
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
     ],
-    "loyalty_tier": "gold",
-    "total_purchases": 8
+    "club_member_status": "ACTIVE"
   },
-  "HM-UK-2021-00832": {
-    "persona_file": "HM-UK-2021-00832.txt",
-    "name": "James Okafor",
-    "age": 34,
-    "gender": "male",
-    "location": "London, United Kingdom",
+  "a188d7daebb2ff177f4937b6fc53d01aa3ec2809862aa4c37b9f071830b260e4": {
+    "persona_file": "backend/data/processed/persona_004_riley.txt",
+    "display_name": "Riley",
+    "age": 30,
+    "purchase_count": 8,
     "segments": [
-      "workwear_professional",
-      "premium_shopper"
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
     ],
-    "loyalty_tier": "silver",
-    "total_purchases": 9
+    "club_member_status": "ACTIVE"
   },
-  "HM-DE-2020-00456": {
-    "persona_file": "HM-DE-2020-00456.txt",
-    "name": "Lena Hoffmann",
-    "age": 19,
-    "gender": "female",
-    "location": "Berlin, Germany",
-    "segments": [
-      "youth_streetwear",
-      "budget_conscious",
-      "trend_follower"
-    ],
-    "loyalty_tier": "basic",
-    "total_purchases": 7
-  },
-  "HM-FR-2017-00215": {
-    "persona_file": "HM-FR-2017-00215.txt",
-    "name": "Marc Dubois",
-    "age": 45,
-    "gender": "male",
-    "location": "Paris, France",
-    "segments": [
-      "basics_buyer",
-      "casual_weekend"
-    ],
-    "loyalty_tier": "gold",
-    "total_purchases": 6
-  },
-  "HM-NL-2022-01045": {
-    "persona_file": "HM-NL-2022-01045.txt",
-    "name": "Sanne de Vries",
-    "age": 31,
-    "gender": "non-binary",
-    "location": "Amsterdam, Netherlands",
-    "segments": [
-      "sustainable_fashion",
-      "casual_weekend"
-    ],
-    "loyalty_tier": "silver",
-    "total_purchases": 10
-  },
-  "HM-ES-2018-00678": {
-    "persona_file": "HM-ES-2018-00678.txt",
-    "name": "Carmen Ruiz Martinez",
+  "a2d1b202af8c08807b9615e68111080339dbe1ebcd8e50f02a3c7d0f4117feae": {
+    "persona_file": "backend/data/processed/persona_005_casey.txt",
+    "display_name": "Casey",
     "age": 52,
-    "gender": "female",
-    "location": "Barcelona, Spain",
+    "purchase_count": 1,
     "segments": [
-      "family_shopper",
-      "budget_conscious"
+      "mature",
+      "occasional_shopper"
     ],
-    "loyalty_tier": "gold",
-    "total_purchases": 12
+    "club_member_status": "ACTIVE"
   },
-  "HM-IT-2023-01298": {
-    "persona_file": "HM-IT-2023-01298.txt",
-    "name": "Alessandro Ferretti",
-    "age": 26,
-    "gender": "male",
-    "location": "Milan, Italy",
+  "4501c09fadb57c868444cda9d49f2de40fb66a8596c9a31f6c0e6959d8fd0317": {
+    "persona_file": "backend/data/processed/persona_006_taylor.txt",
+    "display_name": "Taylor",
+    "age": 52,
+    "purchase_count": 2,
     "segments": [
-      "trend_follower",
-      "youth_streetwear"
+      "mature",
+      "occasional_shopper",
+      "bottoms_buyer"
     ],
-    "loyalty_tier": "basic",
-    "total_purchases": 6
+    "club_member_status": "PRE-CREATE"
   },
-  "HM-DK-2016-00089": {
-    "persona_file": "HM-DK-2016-00089.txt",
-    "name": "Mette Rasmussen",
-    "age": 38,
-    "gender": "female",
-    "location": "Copenhagen, Denmark",
+  "39c9489d5ba2b8530d637f0223dee94a5ca54a1d334651344ab1101b9352442f": {
+    "persona_file": "backend/data/processed/persona_007_quinn.txt",
+    "display_name": "Quinn",
+    "age": 22,
+    "purchase_count": 4,
     "segments": [
-      "athleisure_fan",
-      "sustainable_fashion"
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
     ],
-    "loyalty_tier": "platinum",
-    "total_purchases": 10
+    "club_member_status": "ACTIVE"
   },
-  "HM-NO-2019-00534": {
-    "persona_file": "HM-NO-2019-00534.txt",
-    "name": "Erik Haugen",
-    "age": 62,
-    "gender": "male",
-    "location": "Oslo, Norway",
+  "6c9526c29af3bf3fdafde102d0be03a1223e6bce8fd9fef185284e1b466fb08e": {
+    "persona_file": "backend/data/processed/persona_008_avery.txt",
+    "display_name": "Avery",
+    "age": 57,
+    "purchase_count": 2,
     "segments": [
-      "basics_buyer",
-      "casual_weekend"
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
     ],
-    "loyalty_tier": "silver",
-    "total_purchases": 5
+    "club_member_status": "ACTIVE"
   },
-  "HM-SE-2020-00891": {
-    "persona_file": "HM-SE-2020-00891.txt",
-    "name": "Fatima Al-Rashidi",
+  "45cc2a3314dfd337c8d7bbc7eb0f938a317884b276bc09501cce62e52776ff5a": {
+    "persona_file": "backend/data/processed/persona_009_reese.txt",
+    "display_name": "Reese",
+    "age": 57,
+    "purchase_count": 8,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "55bddffcd7bdbea6ac65042ab1268d86ba6b955c10d8eb28d57b62dc57f62630": {
+    "persona_file": "backend/data/processed/persona_010_dakota.txt",
+    "display_name": "Dakota",
+    "age": 30,
+    "purchase_count": 60,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "6778ce32f57539e6a240fb96db9ad9b03f65f2370e523ddfbfc521585b2aa96a": {
+    "persona_file": "backend/data/processed/persona_011_sage.txt",
+    "display_name": "Sage",
+    "age": 35,
+    "purchase_count": 1,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "7f1233293cc6ff19b226f60d66a8d1170994755422310722565e5bce5a5b55ae": {
+    "persona_file": "backend/data/processed/persona_012_rowan.txt",
+    "display_name": "Rowan",
+    "age": 17,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "d2d71380b2915863a1e9bc67f50d944da4efbd05121ba86a45daaa53081bf853": {
+    "persona_file": "backend/data/processed/persona_013_finley.txt",
+    "display_name": "Finley",
+    "age": 27,
+    "purchase_count": 18,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a08eb7a26f1c393d94aa56f755db6fce219c5efd2ccf6a680313fbaa53a8d845": {
+    "persona_file": "backend/data/processed/persona_014_harper.txt",
+    "display_name": "Harper",
+    "age": 40,
+    "purchase_count": 31,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "8aae1ba056ffac9e1606163eb956b5439ab8f0ab8039bb6060ae56badc945a7a": {
+    "persona_file": "backend/data/processed/persona_015_blair.txt",
+    "display_name": "Blair",
+    "age": 21,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0fe5802813db01a16d6c8e345fe1937908c914b6a1718c5d0194c8cf64ef0eb7": {
+    "persona_file": "backend/data/processed/persona_016_emerson.txt",
+    "display_name": "Emerson",
+    "age": 27,
+    "purchase_count": 71,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "972873f2e56b820f78dd0c0a51ffffb7a5661ef8762586e142bb108d5bd5e163": {
+    "persona_file": "backend/data/processed/persona_017_skyler.txt",
+    "display_name": "Skyler",
+    "age": 46,
+    "purchase_count": 8,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "1be425883539e6f28895866ed2687127ee9e2064d0ce7929d6532969eea6b07d": {
+    "persona_file": "backend/data/processed/persona_018_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 31,
+    "purchase_count": 9,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "afdc58e6c96b702fdc1d7c448fba778a5a5cf10c56af6b996c6a06b22b3bfe0a": {
+    "persona_file": "backend/data/processed/persona_019_drew.txt",
+    "display_name": "Drew",
+    "age": 52,
+    "purchase_count": 97,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b77ceadd343c31e66a64dab3e9bee73e7dcb9850c6a49af4c2ba7016d45a9fbd": {
+    "persona_file": "backend/data/processed/persona_020_alex.txt",
+    "display_name": "Alex",
+    "age": 22,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "45edaf3d503461f076b2dc44b923b231dde1332768ca7b1a7ccd94faf0e2937d": {
+    "persona_file": "backend/data/processed/persona_021_sam.txt",
+    "display_name": "Sam",
+    "age": 21,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "04e42f9ae70601e58b07f6fd4e86f129855d252d037c09a5db9853d46fa4765a": {
+    "persona_file": "backend/data/processed/persona_022_jordan.txt",
+    "display_name": "Jordan",
+    "age": 58,
+    "purchase_count": 7,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "7cef823aba0732e3a874c08f386d77d0ce0b7773bccd84cd43392a0be05e90a3": {
+    "persona_file": "backend/data/processed/persona_023_morgan.txt",
+    "display_name": "Morgan",
+    "age": 52,
+    "purchase_count": 9,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "8236227ac4a4a4bc65b0834b32319efacdb1d267537fa00be89e9cbd14f97b59": {
+    "persona_file": "backend/data/processed/persona_024_riley.txt",
+    "display_name": "Riley",
+    "age": 27,
+    "purchase_count": 25,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "29d95ed6e75a68709a4d7a20e8a48f8aba66808acdd39ac38aadf809b93cb537": {
+    "persona_file": "backend/data/processed/persona_025_casey.txt",
+    "display_name": "Casey",
+    "age": 29,
+    "purchase_count": 19,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2a50210e56a973f7018ce238e3812066eb100b8ddaac3806a507fae3d734dca2": {
+    "persona_file": "backend/data/processed/persona_026_taylor.txt",
+    "display_name": "Taylor",
+    "age": 40,
+    "purchase_count": 2,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "050288001c1123a73c803f4209d511eb81a40cfe432f92b31606a4f3be10fc0c": {
+    "persona_file": "backend/data/processed/persona_027_quinn.txt",
+    "display_name": "Quinn",
+    "age": 47,
+    "purchase_count": 12,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f2f1203a38fda9b57ed08df6187acbab5e16f08f09b7de9a4809ac7bd83f1ae5": {
+    "persona_file": "backend/data/processed/persona_028_avery.txt",
+    "display_name": "Avery",
+    "age": 32,
+    "purchase_count": 9,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "8a3470d12b527dcf8712cc3e04db4df60b052eec79d2107887ad0c275a06e3d9": {
+    "persona_file": "backend/data/processed/persona_029_reese.txt",
+    "display_name": "Reese",
+    "age": 30,
+    "purchase_count": 5,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "7cc5c4311d3eec8f223c21069d9a2a7e9ea4e1516a300e9ddd8a65d763f8084a": {
+    "persona_file": "backend/data/processed/persona_030_dakota.txt",
+    "display_name": "Dakota",
+    "age": 51,
+    "purchase_count": 37,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a828e9b958e2d6dd82e40501ad79164ac4d2a83ea8d0d4fff648947196f4b1ae": {
+    "persona_file": "backend/data/processed/persona_031_sage.txt",
+    "display_name": "Sage",
+    "age": 19,
+    "purchase_count": 25,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "9fdd32c3ecb82d92afa154a4cc8a4e33448594c8072fefeabe3425d095183796": {
+    "persona_file": "backend/data/processed/persona_032_rowan.txt",
+    "display_name": "Rowan",
+    "age": 39,
+    "purchase_count": 4,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "91d9646cf345ec954eff6ed12a42235d57e772b37d8414efc9910e8503879d18": {
+    "persona_file": "backend/data/processed/persona_033_finley.txt",
+    "display_name": "Finley",
+    "age": 33,
+    "purchase_count": 4,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "2678e072bbe31f103bf4333203a6018ebd1fd99fd8517969b07fb026bdef95bd": {
+    "persona_file": "backend/data/processed/persona_034_harper.txt",
+    "display_name": "Harper",
+    "age": 27,
+    "purchase_count": 7,
+    "segments": [
+      "adult",
+      "regular_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "ef4c8ac83ffb7689d508b652c510efc9b1e7ca407770a9c39186c9905d4c1053": {
+    "persona_file": "backend/data/processed/persona_035_blair.txt",
+    "display_name": "Blair",
     "age": 41,
-    "gender": "female",
-    "location": "Gothenburg, Sweden",
+    "purchase_count": 43,
     "segments": [
-      "budget_conscious",
-      "workwear_professional",
-      "casual_weekend"
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
     ],
-    "loyalty_tier": "gold",
-    "total_purchases": 15
+    "club_member_status": "ACTIVE"
+  },
+  "9ad413c501a12322e48c1249504706fb951b2874bf147d6374de033bfa1fd00e": {
+    "persona_file": "backend/data/processed/persona_036_emerson.txt",
+    "display_name": "Emerson",
+    "age": 23,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "74e8a3dd1a37672f4ab2d3cfbfab0f5525d49d94ec762f1614ed0e565079315a": {
+    "persona_file": "backend/data/processed/persona_037_skyler.txt",
+    "display_name": "Skyler",
+    "age": 27,
+    "purchase_count": 10,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "5a1b4aefb870ea6cfb6f90b93227f065ad38b3c37dd7e0879422366a563d908a": {
+    "persona_file": "backend/data/processed/persona_038_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 18,
+    "purchase_count": 6,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "98cf3b70d142859cd59ea5b99540b9952c9d619a7e6295782f2ac3de0a85a868": {
+    "persona_file": "backend/data/processed/persona_039_drew.txt",
+    "display_name": "Drew",
+    "age": 36,
+    "purchase_count": 1,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "d90f49a5810a2a1b813a67bd0c89cdf537dd2c9378d6e98474115e5328b92e4e": {
+    "persona_file": "backend/data/processed/persona_040_alex.txt",
+    "display_name": "Alex",
+    "age": 51,
+    "purchase_count": 14,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "5a82ef9cb0ca3145b1ce660a0359e75d6bcb46ea428c5427303be903b3da8286": {
+    "persona_file": "backend/data/processed/persona_041_sam.txt",
+    "display_name": "Sam",
+    "age": 27,
+    "purchase_count": 13,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2a7bd55238d27037216bd64b9919f98bfb5683c2cbee106f1df290cbfe05ce3e": {
+    "persona_file": "backend/data/processed/persona_042_jordan.txt",
+    "display_name": "Jordan",
+    "age": 36,
+    "purchase_count": 1,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "10477328013ca57649b722be6a576cf1b43597846e3b65c6e30817c8dfebd81b": {
+    "persona_file": "backend/data/processed/persona_043_morgan.txt",
+    "display_name": "Morgan",
+    "age": 25,
+    "purchase_count": 18,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "9972690f0b0729a64fc3d1ceaa9a56436fcc695f75ee8cab3459b3649c32f37a": {
+    "persona_file": "backend/data/processed/persona_044_riley.txt",
+    "display_name": "Riley",
+    "age": 18,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "86e2b7c61221b2b0610df602391b7cd278fed24e6f94548fe93d7e2ac8739e42": {
+    "persona_file": "backend/data/processed/persona_045_casey.txt",
+    "display_name": "Casey",
+    "age": 33,
+    "purchase_count": 11,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "fdb4c699390423ef697276e80a27ca8514bcb56be91b7872c348d241fd607769": {
+    "persona_file": "backend/data/processed/persona_046_taylor.txt",
+    "display_name": "Taylor",
+    "age": 31,
+    "purchase_count": 11,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "ddd5524418d4c051a30deb27a7b85ab37e92202f94a07d9086ccb2219b543e7d": {
+    "persona_file": "backend/data/processed/persona_047_quinn.txt",
+    "display_name": "Quinn",
+    "age": 65,
+    "purchase_count": 39,
+    "segments": [
+      "senior",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f1fdbe842f26b2298d02819caafda5ac97f1500ad144875f47592533f0ed5713": {
+    "persona_file": "backend/data/processed/persona_048_avery.txt",
+    "display_name": "Avery",
+    "age": 28,
+    "purchase_count": 3,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "cb4109a45a3ec3627c1a4d92eb6ef1c3479f918a3eddf5c0c1e474019de36d84": {
+    "persona_file": "backend/data/processed/persona_049_reese.txt",
+    "display_name": "Reese",
+    "age": 27,
+    "purchase_count": 3,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e8b1c5c5c14378aacb3a6bb15dc24633f5b67b6907c993be14cb719dc3aa48fc": {
+    "persona_file": "backend/data/processed/persona_050_dakota.txt",
+    "display_name": "Dakota",
+    "age": 0,
+    "purchase_count": 22,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "9a2d140490b14c91522598d29a7b6716ab4c6fbf5e954c93fce50da4701c3016": {
+    "persona_file": "backend/data/processed/persona_051_sage.txt",
+    "display_name": "Sage",
+    "age": 49,
+    "purchase_count": 24,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "9e9cc544425c818df85244d69a50936c17f87cd9d604042cda89fe1156f17416": {
+    "persona_file": "backend/data/processed/persona_052_rowan.txt",
+    "display_name": "Rowan",
+    "age": 55,
+    "purchase_count": 12,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b9f245ba37dbc99173c61aa4f7f8bca9c14db1eab0e7b7e9ec49ca176599c176": {
+    "persona_file": "backend/data/processed/persona_053_finley.txt",
+    "display_name": "Finley",
+    "age": 35,
+    "purchase_count": 6,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "242d5c95251f8acf71163ba67382dc348d00123c1e84095fde3fab3071ff436d": {
+    "persona_file": "backend/data/processed/persona_054_harper.txt",
+    "display_name": "Harper",
+    "age": 17,
+    "purchase_count": 2,
+    "segments": [
+      "young_adult",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "31d3d425e912bbd6930f4db911327f7c44ea18e2423e94ed542d34c4a60b9f2f": {
+    "persona_file": "backend/data/processed/persona_055_blair.txt",
+    "display_name": "Blair",
+    "age": 65,
+    "purchase_count": 2,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b9437f2f7b7e6c8c43296132dd40cbd4a1508f82da042650a3c20c11daaba289": {
+    "persona_file": "backend/data/processed/persona_056_emerson.txt",
+    "display_name": "Emerson",
+    "age": 34,
+    "purchase_count": 65,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a49263303fd258100a61670a75eb85bbd8478099486a93ca4f69a6ae72395bb8": {
+    "persona_file": "backend/data/processed/persona_057_skyler.txt",
+    "display_name": "Skyler",
+    "age": 33,
+    "purchase_count": 26,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f9113b76d2dfe973857c45cca8565aba4c0d91f140af41dd0f226af2a530f012": {
+    "persona_file": "backend/data/processed/persona_058_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 19,
+    "purchase_count": 9,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e0f2000f1cb5131a99fe6bde084d9863430da2c01461fa70babd8af6edb27c50": {
+    "persona_file": "backend/data/processed/persona_059_drew.txt",
+    "display_name": "Drew",
+    "age": 64,
+    "purchase_count": 13,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "8d48820548b752154e65501cbc6dc4e19cf1c70182ef4d39436feb7523809c51": {
+    "persona_file": "backend/data/processed/persona_060_alex.txt",
+    "display_name": "Alex",
+    "age": 29,
+    "purchase_count": 1,
+    "segments": [
+      "adult",
+      "occasional_shopper"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "c44d3c9d66659dd831efdaf121297ba031ca676a463afa147a000fc260d93c52": {
+    "persona_file": "backend/data/processed/persona_061_sam.txt",
+    "display_name": "Sam",
+    "age": 34,
+    "purchase_count": 109,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "36ea664c60c00fe353b175db93e386a17d9022988aea3a7b681a3d5e6702336d": {
+    "persona_file": "backend/data/processed/persona_062_jordan.txt",
+    "display_name": "Jordan",
+    "age": 19,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "55fb9b93315d14228f3d95e235c2f7181aa9a5042820d52f41398105fd0020c8": {
+    "persona_file": "backend/data/processed/persona_063_morgan.txt",
+    "display_name": "Morgan",
+    "age": 54,
+    "purchase_count": 37,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4a17625d942441cdda9d13b6bfbce4c9019944c633fcd902211e5a5104e1fd62": {
+    "persona_file": "backend/data/processed/persona_064_riley.txt",
+    "display_name": "Riley",
+    "age": 40,
+    "purchase_count": 39,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c9bd63ea9c60627f494162906513dc990b443c9a04ee1d76a87cc8cd5cb6804e": {
+    "persona_file": "backend/data/processed/persona_065_casey.txt",
+    "display_name": "Casey",
+    "age": 32,
+    "purchase_count": 165,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "23fe52c2131843d22820a679afb5cc0f92a5c8ba24a27b9da50e83621f4bcbb3": {
+    "persona_file": "backend/data/processed/persona_066_taylor.txt",
+    "display_name": "Taylor",
+    "age": 24,
+    "purchase_count": 78,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "950e72605860c27f58224a73154a4eb1c59fe686fced405a91e826b30831b534": {
+    "persona_file": "backend/data/processed/persona_067_quinn.txt",
+    "display_name": "Quinn",
+    "age": 44,
+    "purchase_count": 6,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "bdf87e3b5fedefcc44d709efc1711f41e3ec26988118af1e7205398790f845ac": {
+    "persona_file": "backend/data/processed/persona_068_avery.txt",
+    "display_name": "Avery",
+    "age": 54,
+    "purchase_count": 1,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "3b5f0ab07ac4b6209be09462afb75528b375465d05c3bb3153979089add4a8a3": {
+    "persona_file": "backend/data/processed/persona_069_reese.txt",
+    "display_name": "Reese",
+    "age": 21,
+    "purchase_count": 64,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "506261dbf1ced6ec13978b7775e3a8dc2ca6677afac5178c9944dfcdfb3be71d": {
+    "persona_file": "backend/data/processed/persona_070_dakota.txt",
+    "display_name": "Dakota",
+    "age": 31,
+    "purchase_count": 35,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0460aaee4cca9befc49079f5258f30c7a7ea47baa83160269e8889fd34e84e43": {
+    "persona_file": "backend/data/processed/persona_071_sage.txt",
+    "display_name": "Sage",
+    "age": 19,
+    "purchase_count": 10,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "147facbc32594c9a4e8bb36168131fa4d98b8504c9ee416daa49b3eeceef55bb": {
+    "persona_file": "backend/data/processed/persona_072_rowan.txt",
+    "display_name": "Rowan",
+    "age": 25,
+    "purchase_count": 78,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f8a3092ea707b4672031b7da7b3e0333429b9731282f81551edbe461bda6f17b": {
+    "persona_file": "backend/data/processed/persona_073_finley.txt",
+    "display_name": "Finley",
+    "age": 43,
+    "purchase_count": 11,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e82d4ed80a69995b60e39454265a66c261fc80c40050a7b8bde8be9b3a0ac3d2": {
+    "persona_file": "backend/data/processed/persona_074_harper.txt",
+    "display_name": "Harper",
+    "age": 25,
+    "purchase_count": 8,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "aeb730f824621b5d5fd83df9d4f6286ce9a276bb6c84a8637c5b56029cb81ef2": {
+    "persona_file": "backend/data/processed/persona_075_blair.txt",
+    "display_name": "Blair",
+    "age": 39,
+    "purchase_count": 54,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "1c960e11f0c42609a1b364762c6cdc3f9bb5a773c7cbaa8a902102bf21543448": {
+    "persona_file": "backend/data/processed/persona_076_emerson.txt",
+    "display_name": "Emerson",
+    "age": 48,
+    "purchase_count": 5,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "6119220f86f5fa50c213b497f13dd01f71d85eb388884de32b9e9316542c8ea0": {
+    "persona_file": "backend/data/processed/persona_077_skyler.txt",
+    "display_name": "Skyler",
+    "age": 51,
+    "purchase_count": 24,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "81be3de44e469ca16f22c3e323bf4ebfe7d6e879c8a63aafce2fa8ea38f8d555": {
+    "persona_file": "backend/data/processed/persona_078_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 52,
+    "purchase_count": 65,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "67bf71e2fb765d9131890d115fed228ea7bb55875c3c5f645fd0e200fce5c1f4": {
+    "persona_file": "backend/data/processed/persona_079_drew.txt",
+    "display_name": "Drew",
+    "age": 52,
+    "purchase_count": 5,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "ef1c33cfd692f3c3689f13d28701ef093c5953e03425372417c9181aa98f101c": {
+    "persona_file": "backend/data/processed/persona_080_alex.txt",
+    "display_name": "Alex",
+    "age": 23,
+    "purchase_count": 20,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2a9b247a2bbee014c862efef7ec5927dd4aa93e43f8397ed217faa689ea6f9f4": {
+    "persona_file": "backend/data/processed/persona_081_sam.txt",
+    "display_name": "Sam",
+    "age": 64,
+    "purchase_count": 432,
+    "segments": [
+      "senior",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "6d19dad6df2544ff611ffa8f80ce4759293d19a963533cea631294251aa572ec": {
+    "persona_file": "backend/data/processed/persona_082_jordan.txt",
+    "display_name": "Jordan",
+    "age": 57,
+    "purchase_count": 18,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "16e999699d62ad36fd9705cb3c74c57dcb9b88b139789c679c8478a6c97ad06f": {
+    "persona_file": "backend/data/processed/persona_083_morgan.txt",
+    "display_name": "Morgan",
+    "age": 24,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "492fe653ff505b48a9752dd49870cb58bd4b642d9dc2efd5c5f1c5fca9b2212a": {
+    "persona_file": "backend/data/processed/persona_084_riley.txt",
+    "display_name": "Riley",
+    "age": 35,
+    "purchase_count": 1,
+    "segments": [
+      "adult",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a63c9daa0d0342babd01d438200957fb28cd61ed186f51eee10b2467bf49c7a4": {
+    "persona_file": "backend/data/processed/persona_085_casey.txt",
+    "display_name": "Casey",
+    "age": 24,
+    "purchase_count": 2,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a0d4627154333f7fa8b9c886df36f74950917dcde6cb82bad5a9ba4e18ee447b": {
+    "persona_file": "backend/data/processed/persona_086_taylor.txt",
+    "display_name": "Taylor",
+    "age": 42,
+    "purchase_count": 37,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "fbcfc3cdf13c3dfe50616aa0dc42f596360cd207536fabd46740ef0114fe34d1": {
+    "persona_file": "backend/data/processed/persona_087_quinn.txt",
+    "display_name": "Quinn",
+    "age": 23,
+    "purchase_count": 75,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a92abd13d6077b7685efbd62ec3adc43e2cd3f147922e0d5f94c97a9c1b645e3": {
+    "persona_file": "backend/data/processed/persona_088_avery.txt",
+    "display_name": "Avery",
+    "age": 55,
+    "purchase_count": 1,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e0e9c3006c1b4647a7b56585599bd21b5f531fa0c0098c3582d4a420594e9a25": {
+    "persona_file": "backend/data/processed/persona_089_reese.txt",
+    "display_name": "Reese",
+    "age": 39,
+    "purchase_count": 1,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "f1465b40a4d3e9fb33c7faa827c676b14e537d5f3b3992d56260f9d2e726d089": {
+    "persona_file": "backend/data/processed/persona_090_dakota.txt",
+    "display_name": "Dakota",
+    "age": 55,
+    "purchase_count": 1,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "5bf9f25532f93fb47f011d0312a744ce2d7025650335d76fe5ca1b98cb41f34e": {
+    "persona_file": "backend/data/processed/persona_091_sage.txt",
+    "display_name": "Sage",
+    "age": 26,
+    "purchase_count": 93,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "458b15920fccf510e942271baca26e82eb54363db71afbca91e8c3bf64d253d7": {
+    "persona_file": "backend/data/processed/persona_092_rowan.txt",
+    "display_name": "Rowan",
+    "age": 37,
+    "purchase_count": 2,
+    "segments": [
+      "adult",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "069a8de9470ea01f0da4b1c78be395555f28e35127aa644ff1a34a1bbfacf99f": {
+    "persona_file": "backend/data/processed/persona_093_finley.txt",
+    "display_name": "Finley",
+    "age": 26,
+    "purchase_count": 5,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f09bdaa36c411a24674e5c386ad89a3483687154bba21bf724831bc5f9b8d455": {
+    "persona_file": "backend/data/processed/persona_094_harper.txt",
+    "display_name": "Harper",
+    "age": 50,
+    "purchase_count": 6,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "61fab754c02bfa9bd4a764628eeb2cfe02192317aeae9c8d04582c6948657fc5": {
+    "persona_file": "backend/data/processed/persona_095_blair.txt",
+    "display_name": "Blair",
+    "age": 49,
+    "purchase_count": 54,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2faf4f3c0c4c265eeeb768dbfb4516cfb2f49109e573b569ccc5df363489231f": {
+    "persona_file": "backend/data/processed/persona_096_emerson.txt",
+    "display_name": "Emerson",
+    "age": 19,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c9ff20bb5de2fb47905f46d38cd38043b9cf8db188279836d5f68f6120029fd8": {
+    "persona_file": "backend/data/processed/persona_097_skyler.txt",
+    "display_name": "Skyler",
+    "age": 41,
+    "purchase_count": 2,
+    "segments": [
+      "mature",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "8ce73139b336d682d74d00b8e21623d18257fd84e3e9d494f149cc8968f87d5e": {
+    "persona_file": "backend/data/processed/persona_098_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 56,
+    "purchase_count": 8,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f84721e02a69b5750325a11998d7a0661c0f4cb87286d4b2c29c6970bccd9611": {
+    "persona_file": "backend/data/processed/persona_099_drew.txt",
+    "display_name": "Drew",
+    "age": 27,
+    "purchase_count": 3,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c3b90d53c94e3667187c51fc3bb2880070b4bdf5654d8368f487b6135447f093": {
+    "persona_file": "backend/data/processed/persona_100_alex.txt",
+    "display_name": "Alex",
+    "age": 30,
+    "purchase_count": 9,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2ce8536a41a762f81dc310fdc4f2407854e91bdfd2859381a7259342ece54bfd": {
+    "persona_file": "backend/data/processed/persona_101_sam.txt",
+    "display_name": "Sam",
+    "age": 28,
+    "purchase_count": 4,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "fe011c476de76b807d091515aee878c5990c411fd39ab9fe51775f374ee712d7": {
+    "persona_file": "backend/data/processed/persona_102_jordan.txt",
+    "display_name": "Jordan",
+    "age": 28,
+    "purchase_count": 16,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "9810eca281e578e07d1cd30420256c1895668ca0039b9469b489e1685aa4a079": {
+    "persona_file": "backend/data/processed/persona_103_morgan.txt",
+    "display_name": "Morgan",
+    "age": 21,
+    "purchase_count": 9,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f8c4e672c4c62f6f113f1a45e0db756952724d788f2dec5aacd2b246252fde91": {
+    "persona_file": "backend/data/processed/persona_104_riley.txt",
+    "display_name": "Riley",
+    "age": 34,
+    "purchase_count": 16,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c74bdffb0bc2fb3b0c09f05bceb7780e6292408ee26e8d63aea500442873df9a": {
+    "persona_file": "backend/data/processed/persona_105_casey.txt",
+    "display_name": "Casey",
+    "age": 20,
+    "purchase_count": 2,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "753f0924a92612f0d2a565998c2f14678bed8371121ee702df35dafccc99afec": {
+    "persona_file": "backend/data/processed/persona_106_taylor.txt",
+    "display_name": "Taylor",
+    "age": 22,
+    "purchase_count": 44,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "348d14cc065cf47c0c03aba21ccb199e373d466c0bd23e741b6beca017aed4a4": {
+    "persona_file": "backend/data/processed/persona_107_quinn.txt",
+    "display_name": "Quinn",
+    "age": 71,
+    "purchase_count": 2,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0648f309fdfcbd123750b30c48ca4d28c36e69b0b1b8aa2337f50d7786729ece": {
+    "persona_file": "backend/data/processed/persona_108_avery.txt",
+    "display_name": "Avery",
+    "age": 51,
+    "purchase_count": 6,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "d1e52ddb6b5878ff140609ff7fc57a5d197b8d37846a85fad9255e754110fb42": {
+    "persona_file": "backend/data/processed/persona_109_reese.txt",
+    "display_name": "Reese",
+    "age": 30,
+    "purchase_count": 34,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "44822303d02fe2a5a3f3e6febac260e5ca3211a7596cc4314bba76c03b76fca4": {
+    "persona_file": "backend/data/processed/persona_110_dakota.txt",
+    "display_name": "Dakota",
+    "age": 24,
+    "purchase_count": 4,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "d9d0bc967baad0e6cbc7620a3dc054a27b3fc96f73782178188fdd6bae742118": {
+    "persona_file": "backend/data/processed/persona_111_sage.txt",
+    "display_name": "Sage",
+    "age": 23,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4868be2d5a6791126d50d47ee9ffb32b259f06fe184d355d580322403cbefbbe": {
+    "persona_file": "backend/data/processed/persona_112_rowan.txt",
+    "display_name": "Rowan",
+    "age": 42,
+    "purchase_count": 7,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "968829573b8ed926f8f442805ea6e2e7e6fbd88eb2e5a600a92ea844d80a0e7c": {
+    "persona_file": "backend/data/processed/persona_113_finley.txt",
+    "display_name": "Finley",
+    "age": 45,
+    "purchase_count": 67,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c2677c072394ce6aff015855e9ac705ee6b5e589425feaff2dbea68703eb65e9": {
+    "persona_file": "backend/data/processed/persona_114_harper.txt",
+    "display_name": "Harper",
+    "age": 33,
+    "purchase_count": 22,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c470dc9f9d5f9bfaf7df3d871b0525e28664aa2976dd78b1695195cd1e8a7ae6": {
+    "persona_file": "backend/data/processed/persona_115_blair.txt",
+    "display_name": "Blair",
+    "age": 59,
+    "purchase_count": 3,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "1e26a1ae5870b469fca7f73c4929b19caf0c1c3a0cb548b8e8d8bba8f6589e29": {
+    "persona_file": "backend/data/processed/persona_116_emerson.txt",
+    "display_name": "Emerson",
+    "age": 19,
+    "purchase_count": 2,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "fdf920cd5a6a37b6cbd51d0ec7a0dfc75099dcfcb5f1e83c01041ed6df544d6c": {
+    "persona_file": "backend/data/processed/persona_117_skyler.txt",
+    "display_name": "Skyler",
+    "age": 25,
+    "purchase_count": 4,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c973d6e0df3c0911c6caccb3e9c229189dc047ee59d20ac9600744f94f84b7dc": {
+    "persona_file": "backend/data/processed/persona_118_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 18,
+    "purchase_count": 21,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "c24124905cbb6f664d823e6e5935209f31d6a661aa0a82bd2767b0ab6e1d6f0d": {
+    "persona_file": "backend/data/processed/persona_119_drew.txt",
+    "display_name": "Drew",
+    "age": 25,
+    "purchase_count": 2,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "1eaa70fd07f76f8681249a320063049dec7f5f40dc577b0e3b5903e43c869464": {
+    "persona_file": "backend/data/processed/persona_120_alex.txt",
+    "display_name": "Alex",
+    "age": 27,
+    "purchase_count": 25,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "30e192c54aad8147697966fa8ab08b8e2b801a282a7c07267c97d2384ca3854b": {
+    "persona_file": "backend/data/processed/persona_121_sam.txt",
+    "display_name": "Sam",
+    "age": 18,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a1c25b2f89372b2715a8e29c373b46ae17ed8c52e7783c3974dd8937e5f8a0a9": {
+    "persona_file": "backend/data/processed/persona_122_jordan.txt",
+    "display_name": "Jordan",
+    "age": 38,
+    "purchase_count": 4,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f87ffda1ac96517ad772e2e94d1f214ecbae8e43b26873844184edfd6fd57121": {
+    "persona_file": "backend/data/processed/persona_123_morgan.txt",
+    "display_name": "Morgan",
+    "age": 28,
+    "purchase_count": 4,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "1f18227018319fd1add18b121ed227f39360f8f5405ec665c2276cc8275f4265": {
+    "persona_file": "backend/data/processed/persona_124_riley.txt",
+    "display_name": "Riley",
+    "age": 25,
+    "purchase_count": 34,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "6a6171c0c2d03f1412ba82efb541afbd6ca4c099d0d5e68c3e14807f57fd52dd": {
+    "persona_file": "backend/data/processed/persona_125_casey.txt",
+    "display_name": "Casey",
+    "age": 24,
+    "purchase_count": 25,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4b482118065baf3e23c797a5661861178277e0cc28394f9f1caa4884f6f41770": {
+    "persona_file": "backend/data/processed/persona_126_taylor.txt",
+    "display_name": "Taylor",
+    "age": 23,
+    "purchase_count": 6,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "37a2a987c2851c55166b51bf991d2420c59657afd3c2b9787edb61dd53235ec0": {
+    "persona_file": "backend/data/processed/persona_127_quinn.txt",
+    "display_name": "Quinn",
+    "age": 51,
+    "purchase_count": 43,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a0408d2c4e75d014a219ab45bfe741753f547f210dd9265ed1b13065210032b6": {
+    "persona_file": "backend/data/processed/persona_128_avery.txt",
+    "display_name": "Avery",
+    "age": 39,
+    "purchase_count": 6,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b61795523062b802589211f6544fa230bc1f44ff0e887bb3e0dbb9f160ed6467": {
+    "persona_file": "backend/data/processed/persona_129_reese.txt",
+    "display_name": "Reese",
+    "age": 52,
+    "purchase_count": 3,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0ae007b749d82555a3f87f0d888ec69760710508aa50f95762d99d941b2e7d41": {
+    "persona_file": "backend/data/processed/persona_130_dakota.txt",
+    "display_name": "Dakota",
+    "age": 28,
+    "purchase_count": 67,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a7e01a7ba21ddf5b668bbacc3e6a9ffcdfcd8d5cd125160b60b78dcbfec2da92": {
+    "persona_file": "backend/data/processed/persona_131_sage.txt",
+    "display_name": "Sage",
+    "age": 25,
+    "purchase_count": 2,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "3add01d6271cc14d1943ae6baef7a4fb4a405242513d498929d3116ee2df0a29": {
+    "persona_file": "backend/data/processed/persona_132_rowan.txt",
+    "display_name": "Rowan",
+    "age": 50,
+    "purchase_count": 23,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "bd69f7cf519b8ea4378de4f6606ff4cb75a9075bcf5023ae348fdfb9a90a9ed6": {
+    "persona_file": "backend/data/processed/persona_133_finley.txt",
+    "display_name": "Finley",
+    "age": 56,
+    "purchase_count": 8,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "797553ce9a82dbc2ef45fea3ca1077e5b90f1c8f1bc8da68d4a8c039fe6dd69e": {
+    "persona_file": "backend/data/processed/persona_134_harper.txt",
+    "display_name": "Harper",
+    "age": 58,
+    "purchase_count": 6,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "033d431df4efb39b524c4e34c4e7203b774ea7ef3ec0e833f9c0ccf652ccb055": {
+    "persona_file": "backend/data/processed/persona_135_blair.txt",
+    "display_name": "Blair",
+    "age": 53,
+    "purchase_count": 7,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0ba405ebb5a3c4b790f08303eb7b357b21115a1a7c145fc57376562fb0eab83e": {
+    "persona_file": "backend/data/processed/persona_136_emerson.txt",
+    "display_name": "Emerson",
+    "age": 26,
+    "purchase_count": 2,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "50fb43873396f37fda8354dbfcfbc742190a0270e899104759464fb5db0f7cf3": {
+    "persona_file": "backend/data/processed/persona_137_skyler.txt",
+    "display_name": "Skyler",
+    "age": 50,
+    "purchase_count": 4,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "08d011825aaaf3a6585a03548f75d63d3ec410be54ea75eec95c3bd080a3ce6a": {
+    "persona_file": "backend/data/processed/persona_138_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 28,
+    "purchase_count": 7,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4b74dfc2d83ee30cda4338a2f7f507ef250342c5235fefa90efc943fc1a3e247": {
+    "persona_file": "backend/data/processed/persona_139_drew.txt",
+    "display_name": "Drew",
+    "age": 29,
+    "purchase_count": 10,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "d57dbb42c3c7a98386ce9523bf39ed98b0723bb4dd5ce18eebe78a917e2f6443": {
+    "persona_file": "backend/data/processed/persona_140_alex.txt",
+    "display_name": "Alex",
+    "age": 39,
+    "purchase_count": 18,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "15466c14fffeb5b79d5f41635e158697be088fa247f43b5a179ce3cc39688722": {
+    "persona_file": "backend/data/processed/persona_141_sam.txt",
+    "display_name": "Sam",
+    "age": 32,
+    "purchase_count": 14,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f2a9031d9c922c2a9a0b889e652b0afec01445d0f52e980fa86c918e55f0e74c": {
+    "persona_file": "backend/data/processed/persona_142_jordan.txt",
+    "display_name": "Jordan",
+    "age": 19,
+    "purchase_count": 25,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "48a0eacf416de39b8afd2ceb50da65def4bdf4f8f6819e57c4f501259b8628f2": {
+    "persona_file": "backend/data/processed/persona_143_morgan.txt",
+    "display_name": "Morgan",
+    "age": 23,
+    "purchase_count": 29,
+    "segments": [
+      "young_adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "93f916eed38a11af3f0b8c92b97b237a773a749758f4e36f7656e3abe8e984bf": {
+    "persona_file": "backend/data/processed/persona_144_riley.txt",
+    "display_name": "Riley",
+    "age": 26,
+    "purchase_count": 59,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "f487f037e7cd7bc820e7fbf34e8dfca16a0740432b3603a4d266273c830cd43e": {
+    "persona_file": "backend/data/processed/persona_145_casey.txt",
+    "display_name": "Casey",
+    "age": 48,
+    "purchase_count": 4,
+    "segments": [
+      "mature",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "8c880f3ae6c20dabde31b1a4712a8ca49eb22a629f6a9ebe7277a5121397ea10": {
+    "persona_file": "backend/data/processed/persona_146_taylor.txt",
+    "display_name": "Taylor",
+    "age": 65,
+    "purchase_count": 2,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "d0160606ffa790c8361dcc8060402c02665d8f2587c206b8256c0fffbfce1e86": {
+    "persona_file": "backend/data/processed/persona_147_quinn.txt",
+    "display_name": "Quinn",
+    "age": 40,
+    "purchase_count": 20,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "071eec4240bfe6f427eff59cfe8d5843b2156035733e90014190ebb248f3ec99": {
+    "persona_file": "backend/data/processed/persona_148_avery.txt",
+    "display_name": "Avery",
+    "age": 26,
+    "purchase_count": 35,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0922c78f85ffac9c343cb497ac754a23e7150095d424f9828bf05c7e38061328": {
+    "persona_file": "backend/data/processed/persona_149_reese.txt",
+    "display_name": "Reese",
+    "age": 21,
+    "purchase_count": 11,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "12a3fb2537f2818b6f08c2a6e2d6ebfdaa67b2222dacfa1445c3a0048be6664d": {
+    "persona_file": "backend/data/processed/persona_150_dakota.txt",
+    "display_name": "Dakota",
+    "age": 27,
+    "purchase_count": 2,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "9c33605dfef495d4deebe0f29272dea8e80281a180e5554a2ccdb9745316b13f": {
+    "persona_file": "backend/data/processed/persona_151_sage.txt",
+    "display_name": "Sage",
+    "age": 57,
+    "purchase_count": 77,
+    "segments": [
+      "senior",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "084fad082dd257d441c8ea9d342aef6c748d638b9c711f04c37dcc68d7ba12c4": {
+    "persona_file": "backend/data/processed/persona_152_rowan.txt",
+    "display_name": "Rowan",
+    "age": 54,
+    "purchase_count": 5,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "fdf0003eca80c953cc992bcda8be82c2ca30feb16810927f091827e5b8f48491": {
+    "persona_file": "backend/data/processed/persona_153_finley.txt",
+    "display_name": "Finley",
+    "age": 52,
+    "purchase_count": 24,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b648c83d6389457acb39961c0b3b77430c3397674ae5caae68f41c51452d8b15": {
+    "persona_file": "backend/data/processed/persona_154_harper.txt",
+    "display_name": "Harper",
+    "age": 48,
+    "purchase_count": 10,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "852a3c7c9a839cd8317b870ae11400a534a727a02ba162f0861ea816ce8f5a3c": {
+    "persona_file": "backend/data/processed/persona_155_blair.txt",
+    "display_name": "Blair",
+    "age": 26,
+    "purchase_count": 7,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "158fcc5bcdffab312931978fccbd1a70f790256de2214bb56ba24c888d4e7cf4": {
+    "persona_file": "backend/data/processed/persona_156_emerson.txt",
+    "display_name": "Emerson",
+    "age": 19,
+    "purchase_count": 8,
+    "segments": [
+      "young_adult",
+      "regular_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "d905798565dd26028152cdc3ab1f76b504a4d4bfb63ca2571d71b5b19a7d13d8": {
+    "persona_file": "backend/data/processed/persona_157_skyler.txt",
+    "display_name": "Skyler",
+    "age": 28,
+    "purchase_count": 19,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "7b2a169f7365108abcc746befed72b062e47822e862eb42145fb3fdfc726af39": {
+    "persona_file": "backend/data/processed/persona_158_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 51,
+    "purchase_count": 17,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "0ab83a7bfd34da0bb65e0c16afde793157534fe8102cfdd1a47e2aa8b248d113": {
+    "persona_file": "backend/data/processed/persona_159_drew.txt",
+    "display_name": "Drew",
+    "age": 25,
+    "purchase_count": 11,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "53903d5d34d94e576fab63f8f6949748af39c94289e2a8d3671ec3078bfa21bb": {
+    "persona_file": "backend/data/processed/persona_160_alex.txt",
+    "display_name": "Alex",
+    "age": 31,
+    "purchase_count": 43,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "623bc4e77b7031babff59e137684dcaf2c7132847771ef0028e8826cab7a983b": {
+    "persona_file": "backend/data/processed/persona_161_sam.txt",
+    "display_name": "Sam",
+    "age": 44,
+    "purchase_count": 31,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "2abcad047d5349e2f1ef0f525f602f92440bfd3c4ac3f0918790d494edb749f4": {
+    "persona_file": "backend/data/processed/persona_162_jordan.txt",
+    "display_name": "Jordan",
+    "age": 32,
+    "purchase_count": 5,
+    "segments": [
+      "adult",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4c03c1f05da24ba394bbc0d16b1a100e01d84b40e3ff5b94d66e5074faf82327": {
+    "persona_file": "backend/data/processed/persona_163_morgan.txt",
+    "display_name": "Morgan",
+    "age": 25,
+    "purchase_count": 194,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "25f4731d5384fab7852b1158bcbae72e3f07990bf35df95e5bd7a18e15dd6c59": {
+    "persona_file": "backend/data/processed/persona_164_riley.txt",
+    "display_name": "Riley",
+    "age": 43,
+    "purchase_count": 5,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "76b6a4f72eaa809ff0e1c6771dbb566665cfa42105b5a6f9ead086c4f5196f6c": {
+    "persona_file": "backend/data/processed/persona_165_casey.txt",
+    "display_name": "Casey",
+    "age": 26,
+    "purchase_count": 23,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "a5f7b43328206be296ed823affaa17a680319dcd4bb8695cb9b0c43fc360c011": {
+    "persona_file": "backend/data/processed/persona_166_taylor.txt",
+    "display_name": "Taylor",
+    "age": 52,
+    "purchase_count": 9,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4c4c1a91e57259eeda60b0714ddefecadf6c6d9c85f48125d40c7464c0321ff9": {
+    "persona_file": "backend/data/processed/persona_167_quinn.txt",
+    "display_name": "Quinn",
+    "age": 57,
+    "purchase_count": 11,
+    "segments": [
+      "senior",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "980d7401c550068f73fa680e29a77fcfed02f6de77b4729e9db2b0d12787e7ba": {
+    "persona_file": "backend/data/processed/persona_168_avery.txt",
+    "display_name": "Avery",
+    "age": 55,
+    "purchase_count": 2,
+    "segments": [
+      "senior",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4d587eb3721c29feaf68bc430429d60995c7def344f043e70ff6e6000fb83b55": {
+    "persona_file": "backend/data/processed/persona_169_reese.txt",
+    "display_name": "Reese",
+    "age": 26,
+    "purchase_count": 22,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "bf4004e3768252e88e2ddc7b9e44db047933eaa09e5cd41c9effed8fab3aeb2f": {
+    "persona_file": "backend/data/processed/persona_170_dakota.txt",
+    "display_name": "Dakota",
+    "age": 24,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "40449410876903c604316196bbc2456912c2ff8fe3e70a12c1e1ba965cdb926c": {
+    "persona_file": "backend/data/processed/persona_171_sage.txt",
+    "display_name": "Sage",
+    "age": 18,
+    "purchase_count": 8,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "996a6aebd152c7d4d3a9cbf0a2e2ecb99b1724e215fa8b56426774458d03cbd3": {
+    "persona_file": "backend/data/processed/persona_172_rowan.txt",
+    "display_name": "Rowan",
+    "age": 61,
+    "purchase_count": 2,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "49e589417d2ec9903ed2276d4c0cfd225d285ac0eb92225ff1cfc5a77fc585d8": {
+    "persona_file": "backend/data/processed/persona_173_finley.txt",
+    "display_name": "Finley",
+    "age": 49,
+    "purchase_count": 8,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e2aaba4fb342dd557c44193d465d49eec034e46306e68d44df9c7b65eb3ea2b9": {
+    "persona_file": "backend/data/processed/persona_174_harper.txt",
+    "display_name": "Harper",
+    "age": 42,
+    "purchase_count": 10,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "645abaa052bd8fa2b2f6bcd9ecf7a5c46d65f048bb1d3f9b7e297de32b98a4c4": {
+    "persona_file": "backend/data/processed/persona_175_blair.txt",
+    "display_name": "Blair",
+    "age": 26,
+    "purchase_count": 29,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "8215d9b4fc8e8d4a8d8e918320143d3b52ba6f87cbfd9a06efcd842b2550633c": {
+    "persona_file": "backend/data/processed/persona_176_emerson.txt",
+    "display_name": "Emerson",
+    "age": 23,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "3e8744235e8a5f6456434e65bd4c67ddf356f9436f1bf22f73138f6b1d1799f8": {
+    "persona_file": "backend/data/processed/persona_177_skyler.txt",
+    "display_name": "Skyler",
+    "age": 47,
+    "purchase_count": 56,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "24cba6ad903ffa981fee2f09d5e701b2c19b86638b0072b690a7d114cb590f9a": {
+    "persona_file": "backend/data/processed/persona_178_phoenix.txt",
+    "display_name": "Phoenix",
+    "age": 28,
+    "purchase_count": 16,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "5b3538dc097d4da3755b6773af1c01d4b3ef8c5a5888efee54a62d4d9b5e023d": {
+    "persona_file": "backend/data/processed/persona_179_drew.txt",
+    "display_name": "Drew",
+    "age": 27,
+    "purchase_count": 119,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4c72e420893e1af6730ead41751fc81cff2adcaa17d1b169c1c9ae98647ce30e": {
+    "persona_file": "backend/data/processed/persona_180_alex.txt",
+    "display_name": "Alex",
+    "age": 20,
+    "purchase_count": 3,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "86462eb8ed511bdb1a7498f5f24fb88b0cde52a55f7a88a1fe13e0fd352842c8": {
+    "persona_file": "backend/data/processed/persona_181_sam.txt",
+    "display_name": "Sam",
+    "age": 47,
+    "purchase_count": 29,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b4680dc0da1f76c8375a04810e9255f801db7adf76cfb53da7676d70a49c714b": {
+    "persona_file": "backend/data/processed/persona_182_jordan.txt",
+    "display_name": "Jordan",
+    "age": 53,
+    "purchase_count": 3,
+    "segments": [
+      "mature",
+      "occasional_shopper"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "dab929261aac7b669c03a38b60b20cab2926d27552446ae32fd57fc8e1b20ae3": {
+    "persona_file": "backend/data/processed/persona_183_morgan.txt",
+    "display_name": "Morgan",
+    "age": 70,
+    "purchase_count": 4,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b32ec8574c0772b30ea3554c14453255772789fd0ff4397bf6265900e0ed8db5": {
+    "persona_file": "backend/data/processed/persona_184_riley.txt",
+    "display_name": "Riley",
+    "age": 67,
+    "purchase_count": 35,
+    "segments": [
+      "senior",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "12a3c4ba5a87be04e5e6e49b367482d817ca991ade6c4449ef468af09316e8f5": {
+    "persona_file": "backend/data/processed/persona_185_casey.txt",
+    "display_name": "Casey",
+    "age": 48,
+    "purchase_count": 6,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "542de9511f2b8fd4e0c6dd6332af19c2f2dc5d45e30046661d6fad20107f73bf": {
+    "persona_file": "backend/data/processed/persona_186_taylor.txt",
+    "display_name": "Taylor",
+    "age": 75,
+    "purchase_count": 4,
+    "segments": [
+      "senior",
+      "occasional_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "6b77c7d8c46b46d924373ecbd550750192d2608568aecfd4143742c8b75058ec": {
+    "persona_file": "backend/data/processed/persona_187_quinn.txt",
+    "display_name": "Quinn",
+    "age": 21,
+    "purchase_count": 1,
+    "segments": [
+      "young_adult",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "PRE-CREATE"
+  },
+  "1ecb2afadeb7825b4a20a3c06c467e0e187ad89e48bb39835007a1296152fea4": {
+    "persona_file": "backend/data/processed/persona_188_avery.txt",
+    "display_name": "Avery",
+    "age": 43,
+    "purchase_count": 13,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "b4395328959098d426220d0683fcb9f430f691c0bcd95901586e920964280e4f": {
+    "persona_file": "backend/data/processed/persona_189_reese.txt",
+    "display_name": "Reese",
+    "age": 27,
+    "purchase_count": 201,
+    "segments": [
+      "adult",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e33946fd4bfe787594b1fd291f80c4755fee11f2730153e6741e0a3832194c9e": {
+    "persona_file": "backend/data/processed/persona_190_dakota.txt",
+    "display_name": "Dakota",
+    "age": 45,
+    "purchase_count": 42,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "4aa8b8a96cec21e72c9fec807cd233bff83e0c31cf5b704fd0afe678177c7d28": {
+    "persona_file": "backend/data/processed/persona_191_sage.txt",
+    "display_name": "Sage",
+    "age": 51,
+    "purchase_count": 4,
+    "segments": [
+      "mature",
+      "occasional_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "e8e34c49d878c065106dea8a104da45331f301a205514c03f83ff08d6793e3c8": {
+    "persona_file": "backend/data/processed/persona_192_rowan.txt",
+    "display_name": "Rowan",
+    "age": 31,
+    "purchase_count": 7,
+    "segments": [
+      "adult",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "bb536fdd5c5f83d4444d5c6a30a2ffe475d3b18882ebb75447558f7260b56c5d": {
+    "persona_file": "backend/data/processed/persona_193_finley.txt",
+    "display_name": "Finley",
+    "age": 20,
+    "purchase_count": 6,
+    "segments": [
+      "young_adult",
+      "regular_shopper",
+      "tops_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "19726612df75973f1fe77f4ad1066ab8c0c08d957aeb24ccfae4ba39786a3809": {
+    "persona_file": "backend/data/processed/persona_194_harper.txt",
+    "display_name": "Harper",
+    "age": 26,
+    "purchase_count": 2,
+    "segments": [
+      "adult",
+      "occasional_shopper",
+      "tops_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "dc3a6e2b36d5d9a23410df00a6dd5c5fa24f07e7da29a8a4a3d5810743c0f923": {
+    "persona_file": "backend/data/processed/persona_195_blair.txt",
+    "display_name": "Blair",
+    "age": 50,
+    "purchase_count": 9,
+    "segments": [
+      "mature",
+      "regular_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "6190fdacc81c434a6a169056159d8c17d64c09543d210c6a482bfb7cf640d166": {
+    "persona_file": "backend/data/processed/persona_196_emerson.txt",
+    "display_name": "Emerson",
+    "age": 64,
+    "purchase_count": 25,
+    "segments": [
+      "senior",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
+  },
+  "015049cd72a76583628b30539fa4c465449fa60468eeab992611596c00dda207": {
+    "persona_file": "backend/data/processed/persona_197_skyler.txt",
+    "display_name": "Skyler",
+    "age": 43,
+    "purchase_count": 65,
+    "segments": [
+      "mature",
+      "frequent_shopper",
+      "tops_buyer",
+      "bottoms_buyer",
+      "fullbody_buyer"
+    ],
+    "club_member_status": "ACTIVE"
   }
 }
