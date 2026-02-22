@@ -1,0 +1,109 @@
+{
+  "customer_id": "HM-FR-2017-00215",
+  "name": "Marc Dubois",
+  "age": 45,
+  "gender": "male",
+  "location": "Paris, France",
+  "purchase_history": [
+    {
+      "item_id": "HM-3012345",
+      "category": "Mens",
+      "subcategory": "Jeans",
+      "color": "dark blue",
+      "size": "33/32",
+      "price": 39.99,
+      "date": "2024-10-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-3023456",
+      "category": "Mens",
+      "subcategory": "Oxford Shirts",
+      "color": "white",
+      "size": "L",
+      "price": 24.99,
+      "date": "2024-10-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-3034567",
+      "category": "Mens",
+      "subcategory": "Oxford Shirts",
+      "color": "light blue",
+      "size": "L",
+      "price": 24.99,
+      "date": "2024-10-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-3056789",
+      "category": "Mens",
+      "subcategory": "T-shirts (3-pack)",
+      "color": "white",
+      "size": "L",
+      "price": 19.99,
+      "date": "2024-08-14",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-3067891",
+      "category": "Mens",
+      "subcategory": "Chinos",
+      "color": "beige",
+      "size": "33/32",
+      "price": 29.99,
+      "date": "2024-06-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-3078912",
+      "category": "Mens",
+      "subcategory": "Linen Shirt",
+      "color": "white",
+      "size": "L",
+      "price": 29.99,
+      "date": "2024-05-30",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Mens", "Basics", "Linen Collection"],
+    "time_spent_minutes": 15,
+    "items_wishlisted": 2,
+    "collections_browsed": ["Linen Essentials", "Basic Mens"],
+    "search_queries": ["oxford shirt men", "regular fit jeans", "white t-shirt multipack"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "I buy the same Oxford shirts every year. Reliable quality, good fit, fair price. The collar holds its shape well after washing which is important to me. I just wish H&M would stop changing the fit every season — when I find something that works, I want to rebuy it identically.",
+      "date": "2024-11-05",
+      "rating": 4
+    },
+    {
+      "type": "support_ticket",
+      "content": "My loyalty points from a purchase on 14/08 were not credited to my account. Order number HM-FR-2024-98712. Please investigate.",
+      "date": "2024-08-20",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "classic French casual",
+    "favorite_colors": ["white", "light blue", "dark blue", "beige", "grey"],
+    "price_sensitivity": "medium",
+    "brand_affinity": ["Uniqlo", "Lacoste", "Ralph Lauren"],
+    "avoids": ["trendy items", "logos", "bright colors", "synthetic fabrics"],
+    "preferred_fit": "regular",
+    "sustainability_interest": false,
+    "sale_shopper": false
+  },
+  "segments": ["basics_buyer", "casual_weekend"],
+  "member_since": "2017-11-03",
+  "loyalty_tier": "gold"
+}

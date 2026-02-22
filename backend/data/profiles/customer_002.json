@@ -1,0 +1,148 @@
+{
+  "customer_id": "HM-UK-2021-00832",
+  "name": "James Okafor",
+  "age": 34,
+  "gender": "male",
+  "location": "London, United Kingdom",
+  "purchase_history": [
+    {
+      "item_id": "HM-1023456",
+      "category": "Mens",
+      "subcategory": "Suits",
+      "color": "charcoal",
+      "size": "50",
+      "price": 79.99,
+      "date": "2024-11-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1023457",
+      "category": "Mens",
+      "subcategory": "Suit Trousers",
+      "color": "charcoal",
+      "size": "50",
+      "price": 34.99,
+      "date": "2024-11-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1098234",
+      "category": "Mens",
+      "subcategory": "Shirts",
+      "color": "white",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-11-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1098235",
+      "category": "Mens",
+      "subcategory": "Shirts",
+      "color": "light blue",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-11-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1145678",
+      "category": "Mens",
+      "subcategory": "Ties",
+      "color": "burgundy",
+      "size": "one size",
+      "price": 14.99,
+      "date": "2024-11-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1034567",
+      "category": "Mens",
+      "subcategory": "Chinos",
+      "color": "navy",
+      "size": "32/32",
+      "price": 29.99,
+      "date": "2024-09-17",
+      "returned": true,
+      "return_reason": "Color looked different online — expected darker navy"
+    },
+    {
+      "item_id": "HM-1067891",
+      "category": "Mens",
+      "subcategory": "Polo Shirts",
+      "color": "forest green",
+      "size": "M",
+      "price": 19.99,
+      "date": "2024-08-05",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1089123",
+      "category": "Mens",
+      "subcategory": "Knitwear",
+      "color": "grey melange",
+      "size": "M",
+      "price": 34.99,
+      "date": "2024-07-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-1056234",
+      "category": "Mens",
+      "subcategory": "Coats",
+      "color": "camel",
+      "size": "50",
+      "price": 69.99,
+      "date": "2024-03-11",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Mens", "Smart Casual", "Premium Quality", "New Arrivals"],
+    "time_spent_minutes": 28,
+    "items_wishlisted": 5,
+    "collections_browsed": ["Premium Quality", "Modern Classic", "BOSS x H&M"],
+    "search_queries": ["slim fit suit", "merino wool sweater", "premium cotton shirt", "office wear men"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "The Premium Quality suit jacket is genuinely impressive for the price. Fabric feels substantial, lining is smooth. Only downside is the sleeve buttons are non-functional — at this price point I get it, but it would be a nice touch.",
+      "date": "2024-11-10",
+      "rating": 5
+    },
+    {
+      "type": "complaint",
+      "content": "Ordered navy chinos online and the color was noticeably different from the product photos. The website showed a deep navy but what arrived was more of a blue-grey. Return was easy at least.",
+      "date": "2024-09-20",
+      "rating": 2
+    },
+    {
+      "type": "survey",
+      "content": "H&M's men's premium line is underrated. I'd happily pay a bit more for better finishing details. More office-appropriate options would be welcome — not everyone works in a hoodie.",
+      "date": "2024-10-15",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "smart casual / professional",
+    "favorite_colors": ["charcoal", "navy", "white", "camel", "burgundy"],
+    "price_sensitivity": "low",
+    "brand_affinity": ["COS", "Reiss", "Charles Tyrwhitt"],
+    "avoids": ["graphic tees", "distressed denim", "oversized fits"],
+    "preferred_fit": "slim",
+    "sustainability_interest": false,
+    "sale_shopper": false
+  },
+  "segments": ["workwear_professional", "premium_shopper"],
+  "member_since": "2021-06-08",
+  "loyalty_tier": "silver"
+}

@@ -1,0 +1,214 @@
+{
+  "customer_id": "HM-SE-2020-00891",
+  "name": "Fatima Al-Rashidi",
+  "age": 41,
+  "gender": "female",
+  "location": "Gothenburg, Sweden",
+  "purchase_history": [
+    {
+      "item_id": "HM-9012345",
+      "category": "Sale",
+      "subcategory": "Womens Trench Coat",
+      "color": "beige",
+      "size": "M",
+      "price": 39.99,
+      "date": "2024-11-25",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9023456",
+      "category": "Sale",
+      "subcategory": "Midi Skirt",
+      "color": "black",
+      "size": "M",
+      "price": 14.99,
+      "date": "2024-11-25",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9034567",
+      "category": "Womens",
+      "subcategory": "Ribbed Turtleneck",
+      "color": "burgundy",
+      "size": "M",
+      "price": 19.99,
+      "date": "2024-11-25",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9045678",
+      "category": "Sale",
+      "subcategory": "Wrap Dress",
+      "color": "dark green",
+      "size": "M",
+      "price": 19.99,
+      "date": "2024-10-12",
+      "returned": true,
+      "return_reason": "The wrap kept coming undone, needed a better closure"
+    },
+    {
+      "item_id": "HM-9056789",
+      "category": "Sale",
+      "subcategory": "Straight-leg Trousers",
+      "color": "charcoal",
+      "size": "38",
+      "price": 17.99,
+      "date": "2024-09-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9067891",
+      "category": "Sale",
+      "subcategory": "Knit Cardigan",
+      "color": "camel",
+      "size": "M",
+      "price": 19.99,
+      "date": "2024-09-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9078912",
+      "category": "Womens",
+      "subcategory": "Wide-leg Palazzo Trousers",
+      "color": "navy",
+      "size": "38",
+      "price": 29.99,
+      "date": "2024-08-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9089123",
+      "category": "Accessories",
+      "subcategory": "Silk-blend Scarf",
+      "color": "paisley blue",
+      "size": "one size",
+      "price": 17.99,
+      "date": "2024-07-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9091234",
+      "category": "Sale",
+      "subcategory": "Structured Blazer",
+      "color": "black",
+      "size": "38",
+      "price": 24.99,
+      "date": "2024-06-05",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9012346",
+      "category": "Womens",
+      "subcategory": "Ankle Boots",
+      "color": "black",
+      "size": "38",
+      "price": 39.99,
+      "date": "2024-05-18",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9023457",
+      "category": "Sale",
+      "subcategory": "Printed Blouse",
+      "color": "cream/brown geometric",
+      "size": "M",
+      "price": 12.99,
+      "date": "2024-04-30",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9034568",
+      "category": "Womens",
+      "subcategory": "Modest Swim Tunic",
+      "color": "black",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-04-10",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9045679",
+      "category": "Accessories",
+      "subcategory": "Headscarf",
+      "color": "dusty pink",
+      "size": "one size",
+      "price": 9.99,
+      "date": "2024-03-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9056790",
+      "category": "Sale",
+      "subcategory": "Long Tunic Top",
+      "color": "olive",
+      "size": "M",
+      "price": 12.99,
+      "date": "2024-02-14",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-9067892",
+      "category": "Womens",
+      "subcategory": "Longline Coat",
+      "color": "grey",
+      "size": "M",
+      "price": 69.99,
+      "date": "2024-01-08",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Womens", "Sale", "Accessories", "New Arrivals"],
+    "time_spent_minutes": 48,
+    "items_wishlisted": 15,
+    "collections_browsed": ["Mid-Season Sale", "Workwear Edit", "Modest Fashion", "Winter Sale"],
+    "search_queries": ["modest fashion", "long sleeve dress", "wide leg trousers", "headscarf", "tunic top", "sale blazer", "midi skirt"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "The trench coat is an absolute steal at the sale price. Classic cut, decent lining, and it looks much more expensive than it is. I wore it to a work meeting and got compliments. The only issue is the belt loops are a bit flimsy.",
+      "date": "2024-12-01",
+      "rating": 5
+    },
+    {
+      "type": "review",
+      "content": "The wrap dress concept was nice but poorly executed. The inner tie kept slipping so the dress would fall open. This is especially frustrating for those of us who need reliable coverage. A simple snap closure would fix this.",
+      "date": "2024-10-18",
+      "rating": 2
+    },
+    {
+      "type": "survey",
+      "content": "I am a loyal H&M shopper, especially during sales. I appreciate that H&M has started offering more modest fashion options, but the selection is still very limited. More long tunics, longer hemlines, and swim options would be wonderful. I also wish the online filter included a 'modest' category to save time browsing.",
+      "date": "2024-11-15",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "elegant modest fashion",
+    "favorite_colors": ["black", "beige", "burgundy", "navy", "olive", "camel"],
+    "price_sensitivity": "high",
+    "brand_affinity": ["Modanisa", "Mango", "Uniqlo"],
+    "avoids": ["short hemlines", "sheer fabrics", "sleeveless tops", "low necklines"],
+    "preferred_fit": "relaxed / covered",
+    "sustainability_interest": false,
+    "sale_shopper": true
+  },
+  "segments": ["budget_conscious", "workwear_professional", "casual_weekend"],
+  "member_since": "2020-07-15",
+  "loyalty_tier": "gold"
+}

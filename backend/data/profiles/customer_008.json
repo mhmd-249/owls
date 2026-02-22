@@ -1,0 +1,159 @@
+{
+  "customer_id": "HM-DK-2016-00089",
+  "name": "Mette Rasmussen",
+  "age": 38,
+  "gender": "female",
+  "location": "Copenhagen, Denmark",
+  "purchase_history": [
+    {
+      "item_id": "HM-7012345",
+      "category": "Sport",
+      "subcategory": "Running Tights",
+      "color": "black",
+      "size": "M",
+      "price": 29.99,
+      "date": "2024-11-18",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7023456",
+      "category": "Sport",
+      "subcategory": "Sports Bra Medium Support",
+      "color": "dusty rose",
+      "size": "M",
+      "price": 19.99,
+      "date": "2024-11-18",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7034567",
+      "category": "Sport",
+      "subcategory": "Windproof Running Jacket",
+      "color": "reflective black",
+      "size": "M",
+      "price": 49.99,
+      "date": "2024-10-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7045678",
+      "category": "Sport",
+      "subcategory": "Seamless Yoga Top",
+      "color": "sage",
+      "size": "S",
+      "price": 19.99,
+      "date": "2024-09-14",
+      "returned": true,
+      "return_reason": "Size S was too tight around the shoulders, M would have been better"
+    },
+    {
+      "item_id": "HM-7056789",
+      "category": "Sport",
+      "subcategory": "Training Shorts",
+      "color": "navy",
+      "size": "M",
+      "price": 14.99,
+      "date": "2024-08-25",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7067891",
+      "category": "Womens",
+      "subcategory": "Joggers",
+      "color": "grey melange",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-07-30",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7078912",
+      "category": "Sport",
+      "subcategory": "Insulated Vest",
+      "color": "dark green",
+      "size": "M",
+      "price": 39.99,
+      "date": "2024-06-12",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7089123",
+      "category": "Sport",
+      "subcategory": "Sports Socks (5-pack)",
+      "color": "mixed",
+      "size": "37-39",
+      "price": 14.99,
+      "date": "2024-05-08",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7091234",
+      "category": "Womens",
+      "subcategory": "Puffer Jacket",
+      "color": "black",
+      "size": "M",
+      "price": 59.99,
+      "date": "2024-03-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-7012346",
+      "category": "Sport",
+      "subcategory": "Sports Water Bottle",
+      "color": "mint green",
+      "size": "one size",
+      "price": 9.99,
+      "date": "2024-02-15",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Sport", "Womens", "Conscious", "New Arrivals"],
+    "time_spent_minutes": 32,
+    "items_wishlisted": 9,
+    "collections_browsed": ["H&M Move", "Running Collection", "Yoga & Studio", "Outdoor Active"],
+    "search_queries": ["running tights pocket", "high impact sports bra", "reflective running gear", "moisture wicking top", "winter training"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "H&M Move running tights are genuinely competitive with Nike and Adidas at half the price. The pocket fits my iPhone, the fabric stays put during 10K runs, and they wash well. The reflective details on the windproof jacket are also a great safety feature for Copenhagen winters.",
+      "date": "2024-11-25",
+      "rating": 5
+    },
+    {
+      "type": "review",
+      "content": "Yoga top sizing is inconsistent with the rest of the Sport line. I'm always M in everything else but the seamless yoga tops run small. Had to return and reorder which is annoying when you plan around your workout schedule.",
+      "date": "2024-09-20",
+      "rating": 3
+    },
+    {
+      "type": "survey",
+      "content": "The H&M Move line has improved massively in the last two years. I'd love to see more technical fabrics and perhaps a collaboration with a running brand. Also, an option to filter by sport/activity on the website would save me a lot of browsing time.",
+      "date": "2024-10-30",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "athleisure / sporty Scandinavian",
+    "favorite_colors": ["black", "navy", "sage", "dusty rose", "grey"],
+    "price_sensitivity": "medium",
+    "brand_affinity": ["Nike", "Lululemon", "Sweaty Betty"],
+    "avoids": ["non-functional sportswear", "cotton for training", "see-through leggings"],
+    "preferred_fit": "fitted for sport, relaxed for casual",
+    "sustainability_interest": true,
+    "sale_shopper": false
+  },
+  "segments": ["athleisure_fan", "sustainable_fashion"],
+  "member_since": "2016-08-30",
+  "loyalty_tier": "platinum"
+}

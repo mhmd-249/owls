@@ -1,0 +1,159 @@
+{
+  "customer_id": "HM-NL-2022-01045",
+  "name": "Sanne de Vries",
+  "age": 31,
+  "gender": "non-binary",
+  "location": "Amsterdam, Netherlands",
+  "purchase_history": [
+    {
+      "item_id": "HM-4012345",
+      "category": "Conscious",
+      "subcategory": "Recycled Down Jacket",
+      "color": "olive",
+      "size": "M",
+      "price": 69.99,
+      "date": "2024-11-10",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4023456",
+      "category": "Conscious",
+      "subcategory": "Organic Cotton Hoodie",
+      "color": "oatmeal",
+      "size": "M",
+      "price": 34.99,
+      "date": "2024-10-05",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4034567",
+      "category": "Mens",
+      "subcategory": "Wide-leg Trousers",
+      "color": "black",
+      "size": "M",
+      "price": 29.99,
+      "date": "2024-09-18",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4045678",
+      "category": "Womens",
+      "subcategory": "Oversized Knit Vest",
+      "color": "rust",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-09-18",
+      "returned": true,
+      "return_reason": "Pilling started after first wash — quality issue"
+    },
+    {
+      "item_id": "HM-4056789",
+      "category": "Conscious",
+      "subcategory": "Hemp Blend T-shirt",
+      "color": "moss green",
+      "size": "M",
+      "price": 19.99,
+      "date": "2024-08-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4067891",
+      "category": "Accessories",
+      "subcategory": "Canvas Tote Bag",
+      "color": "natural",
+      "size": "one size",
+      "price": 9.99,
+      "date": "2024-07-14",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4078912",
+      "category": "Conscious",
+      "subcategory": "Lyocell Shirt",
+      "color": "dusty blue",
+      "size": "M",
+      "price": 29.99,
+      "date": "2024-06-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4089123",
+      "category": "Womens",
+      "subcategory": "Linen Blend Trousers",
+      "color": "sand",
+      "size": "M",
+      "price": 34.99,
+      "date": "2024-05-11",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4091234",
+      "category": "Conscious",
+      "subcategory": "Organic Cotton Socks (3-pack)",
+      "color": "earthy tones",
+      "size": "39-42",
+      "price": 12.99,
+      "date": "2024-04-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-4012346",
+      "category": "Conscious",
+      "subcategory": "Recycled Polyester Windbreaker",
+      "color": "sage",
+      "size": "M",
+      "price": 49.99,
+      "date": "2024-03-15",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Conscious", "Womens", "Mens", "Sustainability"],
+    "time_spent_minutes": 55,
+    "items_wishlisted": 18,
+    "collections_browsed": ["Conscious Exclusive", "Innovation Stories", "Circular Design", "Gender Fluid"],
+    "search_queries": ["gender neutral clothing", "organic cotton", "recycled materials", "sustainable fashion", "unisex oversized", "hemp clothing"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "The hemp blend tee is exactly what I look for — simple, unisex cut, sustainable material. I appreciate H&M moving in this direction. However, I do wonder about the full supply chain. A QR code linking to factory info would build more trust.",
+      "date": "2024-08-10",
+      "rating": 4
+    },
+    {
+      "type": "complaint",
+      "content": "The knit vest started pilling after literally one wash on a gentle cycle. For a brand pushing sustainability, the 'buy less, buy better' message rings hollow when the quality doesn't last. I expected more from a 25-euro piece.",
+      "date": "2024-09-25",
+      "rating": 2
+    },
+    {
+      "type": "survey",
+      "content": "I appreciate H&M's Conscious line but it still feels like a small fraction of the total offering. Would love to see the entire store shift toward sustainable materials rather than having it be a separate 'special' collection. Also, more gender-neutral sizing and sections please.",
+      "date": "2024-10-20",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "gender-neutral minimalist",
+    "favorite_colors": ["olive", "oatmeal", "moss green", "dusty blue", "black"],
+    "price_sensitivity": "medium",
+    "brand_affinity": ["Patagonia", "Arket", "Nudie Jeans"],
+    "avoids": ["virgin polyester", "animal products", "gendered marketing", "fast fashion basics"],
+    "preferred_fit": "relaxed / oversized",
+    "sustainability_interest": true,
+    "sale_shopper": false
+  },
+  "segments": ["sustainable_fashion", "casual_weekend"],
+  "member_since": "2022-02-14",
+  "loyalty_tier": "silver"
+}

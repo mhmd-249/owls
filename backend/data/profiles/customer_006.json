@@ -1,0 +1,181 @@
+{
+  "customer_id": "HM-ES-2018-00678",
+  "name": "Carmen Ruiz Martinez",
+  "age": 52,
+  "gender": "female",
+  "location": "Barcelona, Spain",
+  "purchase_history": [
+    {
+      "item_id": "HM-5012345",
+      "category": "Womens",
+      "subcategory": "Linen Dress",
+      "color": "terracotta",
+      "size": "L",
+      "price": 34.99,
+      "date": "2024-11-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5023456",
+      "category": "Kids",
+      "subcategory": "Boys T-shirt (2-pack)",
+      "color": "blue/green",
+      "size": "134/140",
+      "price": 14.99,
+      "date": "2024-11-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5034567",
+      "category": "Kids",
+      "subcategory": "Girls Leggings",
+      "color": "pink",
+      "size": "110/116",
+      "price": 9.99,
+      "date": "2024-11-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5045678",
+      "category": "Kids",
+      "subcategory": "Boys Jeans",
+      "color": "denim blue",
+      "size": "134/140",
+      "price": 19.99,
+      "date": "2024-10-08",
+      "returned": true,
+      "return_reason": "Son said the jeans were too stiff and uncomfortable"
+    },
+    {
+      "item_id": "HM-5056789",
+      "category": "Sale",
+      "subcategory": "Womens Cardigan",
+      "color": "dusty pink",
+      "size": "L",
+      "price": 14.99,
+      "date": "2024-09-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5067891",
+      "category": "Kids",
+      "subcategory": "Girls Dress",
+      "color": "floral white",
+      "size": "110/116",
+      "price": 17.99,
+      "date": "2024-09-01",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5078912",
+      "category": "Sale",
+      "subcategory": "Womens Blouse",
+      "color": "white",
+      "size": "L",
+      "price": 12.99,
+      "date": "2024-07-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5089123",
+      "category": "Home",
+      "subcategory": "Cotton Cushion Cover",
+      "color": "mustard",
+      "size": "50x50cm",
+      "price": 12.99,
+      "date": "2024-06-10",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5091234",
+      "category": "Kids",
+      "subcategory": "Boys Rain Jacket",
+      "color": "navy",
+      "size": "134/140",
+      "price": 24.99,
+      "date": "2024-05-18",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5012346",
+      "category": "Womens",
+      "subcategory": "Summer Sandals",
+      "color": "tan",
+      "size": "39",
+      "price": 19.99,
+      "date": "2024-05-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5023457",
+      "category": "Sale",
+      "subcategory": "Kids Pyjama Set",
+      "color": "dinosaur print",
+      "size": "134/140",
+      "price": 9.99,
+      "date": "2024-04-14",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-5034568",
+      "category": "Womens",
+      "subcategory": "Wide Trousers",
+      "color": "navy",
+      "size": "L",
+      "price": 29.99,
+      "date": "2024-03-20",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Kids", "Womens", "Sale", "Home"],
+    "time_spent_minutes": 35,
+    "items_wishlisted": 8,
+    "collections_browsed": ["Kids Back to School", "Summer Sale", "New Season Kids"],
+    "search_queries": ["kids school clothes", "boys jeans elastic", "girls winter coat", "sale women", "cotton bedding"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "The kids' clothes are honestly the best value at H&M. My children grow so fast that I can't justify expensive brands, and H&M kids' quality is perfectly fine for 6-12 months of wear. The boys' jeans were too stiff though — kids need stretch fabric!",
+      "date": "2024-10-12",
+      "rating": 3
+    },
+    {
+      "type": "survey",
+      "content": "I mainly shop H&M for my kids and pick up a few things for myself from the sale rack. The kids' sizing is consistent which I really appreciate. I'd love more durable fabrics for active boys — knees always wear through first. Also the store layout in Passeig de Gracia could use better signage for kids' sizes.",
+      "date": "2024-11-01",
+      "rating": null
+    },
+    {
+      "type": "support_ticket",
+      "content": "I received a promotional email for 20% off kids' wear but the code didn't work at checkout online. Error message said 'code expired' but the email clearly stated valid until 30 September. Order was time-sensitive for back to school.",
+      "date": "2024-09-28",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "practical Mediterranean casual",
+    "favorite_colors": ["terracotta", "white", "navy", "dusty pink", "mustard"],
+    "price_sensitivity": "high",
+    "brand_affinity": ["Zara Kids", "Primark", "Mango"],
+    "avoids": ["dry clean only", "delicate fabrics for kids", "anything that requires ironing"],
+    "preferred_fit": "comfortable",
+    "sustainability_interest": false,
+    "sale_shopper": true
+  },
+  "segments": ["family_shopper", "budget_conscious"],
+  "member_since": "2018-04-22",
+  "loyalty_tier": "gold"
+}

@@ -1,0 +1,135 @@
+{
+  "HM-SE-2019-00147": {
+    "persona_file": "HM-SE-2019-00147.txt",
+    "name": "Astrid Lindqvist",
+    "age": 28,
+    "gender": "female",
+    "location": "Stockholm, Sweden",
+    "segments": [
+      "sustainable_fashion",
+      "basics_buyer",
+      "workwear_professional"
+    ],
+    "loyalty_tier": "gold",
+    "total_purchases": 8
+  },
+  "HM-UK-2021-00832": {
+    "persona_file": "HM-UK-2021-00832.txt",
+    "name": "James Okafor",
+    "age": 34,
+    "gender": "male",
+    "location": "London, United Kingdom",
+    "segments": [
+      "workwear_professional",
+      "premium_shopper"
+    ],
+    "loyalty_tier": "silver",
+    "total_purchases": 9
+  },
+  "HM-DE-2020-00456": {
+    "persona_file": "HM-DE-2020-00456.txt",
+    "name": "Lena Hoffmann",
+    "age": 19,
+    "gender": "female",
+    "location": "Berlin, Germany",
+    "segments": [
+      "youth_streetwear",
+      "budget_conscious",
+      "trend_follower"
+    ],
+    "loyalty_tier": "basic",
+    "total_purchases": 7
+  },
+  "HM-FR-2017-00215": {
+    "persona_file": "HM-FR-2017-00215.txt",
+    "name": "Marc Dubois",
+    "age": 45,
+    "gender": "male",
+    "location": "Paris, France",
+    "segments": [
+      "basics_buyer",
+      "casual_weekend"
+    ],
+    "loyalty_tier": "gold",
+    "total_purchases": 6
+  },
+  "HM-NL-2022-01045": {
+    "persona_file": "HM-NL-2022-01045.txt",
+    "name": "Sanne de Vries",
+    "age": 31,
+    "gender": "non-binary",
+    "location": "Amsterdam, Netherlands",
+    "segments": [
+      "sustainable_fashion",
+      "casual_weekend"
+    ],
+    "loyalty_tier": "silver",
+    "total_purchases": 10
+  },
+  "HM-ES-2018-00678": {
+    "persona_file": "HM-ES-2018-00678.txt",
+    "name": "Carmen Ruiz Martinez",
+    "age": 52,
+    "gender": "female",
+    "location": "Barcelona, Spain",
+    "segments": [
+      "family_shopper",
+      "budget_conscious"
+    ],
+    "loyalty_tier": "gold",
+    "total_purchases": 12
+  },
+  "HM-IT-2023-01298": {
+    "persona_file": "HM-IT-2023-01298.txt",
+    "name": "Alessandro Ferretti",
+    "age": 26,
+    "gender": "male",
+    "location": "Milan, Italy",
+    "segments": [
+      "trend_follower",
+      "youth_streetwear"
+    ],
+    "loyalty_tier": "basic",
+    "total_purchases": 6
+  },
+  "HM-DK-2016-00089": {
+    "persona_file": "HM-DK-2016-00089.txt",
+    "name": "Mette Rasmussen",
+    "age": 38,
+    "gender": "female",
+    "location": "Copenhagen, Denmark",
+    "segments": [
+      "athleisure_fan",
+      "sustainable_fashion"
+    ],
+    "loyalty_tier": "platinum",
+    "total_purchases": 10
+  },
+  "HM-NO-2019-00534": {
+    "persona_file": "HM-NO-2019-00534.txt",
+    "name": "Erik Haugen",
+    "age": 62,
+    "gender": "male",
+    "location": "Oslo, Norway",
+    "segments": [
+      "basics_buyer",
+      "casual_weekend"
+    ],
+    "loyalty_tier": "silver",
+    "total_purchases": 5
+  },
+  "HM-SE-2020-00891": {
+    "persona_file": "HM-SE-2020-00891.txt",
+    "name": "Fatima Al-Rashidi",
+    "age": 41,
+    "gender": "female",
+    "location": "Gothenburg, Sweden",
+    "segments": [
+      "budget_conscious",
+      "workwear_professional",
+      "casual_weekend"
+    ],
+    "loyalty_tier": "gold",
+    "total_purchases": 15
+  }
+}

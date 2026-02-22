@@ -1,0 +1,98 @@
+{
+  "customer_id": "HM-NO-2019-00534",
+  "name": "Erik Haugen",
+  "age": 62,
+  "gender": "male",
+  "location": "Oslo, Norway",
+  "purchase_history": [
+    {
+      "item_id": "HM-8012345",
+      "category": "Mens",
+      "subcategory": "Flannel Shirt",
+      "color": "red/navy check",
+      "size": "XL",
+      "price": 24.99,
+      "date": "2024-10-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-8023456",
+      "category": "Mens",
+      "subcategory": "Fleece Jacket",
+      "color": "dark green",
+      "size": "XL",
+      "price": 34.99,
+      "date": "2024-10-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-8034567",
+      "category": "Mens",
+      "subcategory": "Corduroy Trousers",
+      "color": "brown",
+      "size": "36/32",
+      "price": 34.99,
+      "date": "2024-09-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-8045678",
+      "category": "Mens",
+      "subcategory": "Wool Blend Socks (3-pack)",
+      "color": "dark tones",
+      "size": "43-45",
+      "price": 14.99,
+      "date": "2024-09-02",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-8056789",
+      "category": "Mens",
+      "subcategory": "Padded Parka",
+      "color": "dark navy",
+      "size": "XL",
+      "price": 79.99,
+      "date": "2024-08-20",
+      "returned": true,
+      "return_reason": "Zipper got stuck on second use — defective product"
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Mens", "Basics"],
+    "time_spent_minutes": 11,
+    "items_wishlisted": 0,
+    "collections_browsed": ["Autumn Essentials"],
+    "search_queries": ["warm winter jacket men XL", "flannel shirt"]
+  },
+  "feedback_history": [
+    {
+      "type": "complaint",
+      "content": "Bought the padded parka for 80 euros and the main zipper jammed after wearing it twice. At that price I expect basic functionality. The store in Karl Johans gate exchanged it without issues, but I shouldn't have had to make the trip.",
+      "date": "2024-08-25",
+      "rating": 2
+    },
+    {
+      "type": "review",
+      "content": "Good solid flannel shirt. Thick enough for autumn layering, fits true to size. Nothing fancy but that's exactly what I wanted. H&M does basics well when they stick to simple construction.",
+      "date": "2024-10-20",
+      "rating": 4
+    }
+  ],
+  "preferences": {
+    "style": "practical Nordic outdoor casual",
+    "favorite_colors": ["dark green", "navy", "brown", "red check", "charcoal"],
+    "price_sensitivity": "medium",
+    "brand_affinity": ["Helly Hansen", "Peak Performance", "Levi's"],
+    "avoids": ["tight clothing", "trendy styles", "anything requiring special washing", "synthetic next-to-skin"],
+    "preferred_fit": "regular to loose",
+    "sustainability_interest": false,
+    "sale_shopper": false
+  },
+  "segments": ["basics_buyer", "casual_weekend"],
+  "member_since": "2019-01-10",
+  "loyalty_tier": "silver"
+}

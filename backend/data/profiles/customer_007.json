@@ -1,0 +1,109 @@
+{
+  "customer_id": "HM-IT-2023-01298",
+  "name": "Alessandro Ferretti",
+  "age": 26,
+  "gender": "male",
+  "location": "Milan, Italy",
+  "purchase_history": [
+    {
+      "item_id": "HM-6012345",
+      "category": "Mens",
+      "subcategory": "Oversized Leather Jacket",
+      "color": "black",
+      "size": "M",
+      "price": 79.99,
+      "date": "2024-11-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-6023456",
+      "category": "Divided",
+      "subcategory": "Wide-leg Jeans",
+      "color": "washed black",
+      "size": "31/32",
+      "price": 34.99,
+      "date": "2024-11-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-6034567",
+      "category": "Mens",
+      "subcategory": "Mesh Tank Top",
+      "color": "white",
+      "size": "M",
+      "price": 14.99,
+      "date": "2024-10-30",
+      "returned": true,
+      "return_reason": "The mesh was much more see-through than expected from the photos"
+    },
+    {
+      "item_id": "HM-6045678",
+      "category": "Mens",
+      "subcategory": "Chelsea Boots",
+      "color": "black",
+      "size": "43",
+      "price": 49.99,
+      "date": "2024-10-05",
+      "returned": true,
+      "return_reason": "Sole was uncomfortable after walking 20 minutes, no arch support"
+    },
+    {
+      "item_id": "HM-6056789",
+      "category": "Accessories",
+      "subcategory": "Chain Necklace Set",
+      "color": "silver",
+      "size": "one size",
+      "price": 12.99,
+      "date": "2024-09-14",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-6067891",
+      "category": "Mens",
+      "subcategory": "Printed Camp Collar Shirt",
+      "color": "black/abstract print",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-08-20",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Mens", "Divided", "New Arrivals", "Trend", "Accessories"],
+    "time_spent_minutes": 78,
+    "items_wishlisted": 31,
+    "collections_browsed": ["Trend Edit", "Festival Looks", "Street Style", "Studio Collection", "Designer Collabs"],
+    "search_queries": ["leather jacket men", "oversized fit", "silver jewelry men", "camp collar shirt", "platform boots men", "Y2K men"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "The faux leather jacket is surprisingly good — the cut is very editorial and it photographs well. Material is decent for the price, though it creaks a bit. For Instagram fits, it works perfectly. Real leather would be 400+ euros so no complaints.",
+      "date": "2024-11-28",
+      "rating": 4
+    },
+    {
+      "type": "complaint",
+      "content": "Chelsea boots were a disaster. Zero comfort, the sole is like cardboard. I understand it's H&M pricing but shoes need to be functional. I walked from Duomo to Navigli and my feet were destroyed. The style was perfect though, which makes it worse.",
+      "date": "2024-10-10",
+      "rating": 1
+    }
+  ],
+  "preferences": {
+    "style": "contemporary streetwear / editorial",
+    "favorite_colors": ["black", "white", "silver", "washed denim", "deep red"],
+    "price_sensitivity": "medium",
+    "brand_affinity": ["Zara", "ASOS", "Weekday", "AllSaints"],
+    "avoids": ["classic menswear", "khaki", "corporate looks", "dad fits"],
+    "preferred_fit": "oversized tops / slim bottoms",
+    "sustainability_interest": false,
+    "sale_shopper": false
+  },
+  "segments": ["trend_follower", "youth_streetwear"],
+  "member_since": "2023-01-19",
+  "loyalty_tier": "basic"
+}

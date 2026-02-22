@@ -1,0 +1,120 @@
+{
+  "customer_id": "HM-DE-2020-00456",
+  "name": "Lena Hoffmann",
+  "age": 19,
+  "gender": "female",
+  "location": "Berlin, Germany",
+  "purchase_history": [
+    {
+      "item_id": "HM-2034567",
+      "category": "Divided",
+      "subcategory": "Hoodies",
+      "color": "black",
+      "size": "M",
+      "price": 24.99,
+      "date": "2024-11-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-2045678",
+      "category": "Divided",
+      "subcategory": "Cargo Pants",
+      "color": "khaki",
+      "size": "38",
+      "price": 29.99,
+      "date": "2024-11-28",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-2078912",
+      "category": "Divided",
+      "subcategory": "Crop Tops",
+      "color": "white",
+      "size": "S",
+      "price": 9.99,
+      "date": "2024-10-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-2078913",
+      "category": "Divided",
+      "subcategory": "Crop Tops",
+      "color": "black",
+      "size": "S",
+      "price": 9.99,
+      "date": "2024-10-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-2091234",
+      "category": "Divided",
+      "subcategory": "Mini Skirts",
+      "color": "plaid red",
+      "size": "36",
+      "price": 19.99,
+      "date": "2024-09-03",
+      "returned": true,
+      "return_reason": "Looked cute online but the fabric was really thin and see-through"
+    },
+    {
+      "item_id": "HM-2056789",
+      "category": "Accessories",
+      "subcategory": "Bucket Hats",
+      "color": "beige",
+      "size": "one size",
+      "price": 12.99,
+      "date": "2024-08-20",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-2012345",
+      "category": "Divided",
+      "subcategory": "Oversized T-shirts",
+      "color": "vintage grey",
+      "size": "L",
+      "price": 14.99,
+      "date": "2024-07-10",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Divided", "Trend", "Sale", "Accessories"],
+    "time_spent_minutes": 67,
+    "items_wishlisted": 23,
+    "collections_browsed": ["Divided Streetwear", "Back to School", "Festival Season", "TikTok Finds"],
+    "search_queries": ["y2k style", "cargo pants women", "oversized hoodie", "platform sneakers", "baggy jeans"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "The cargo pants are literally SO good for the price. The fit is perfect oversized but not sloppy. Already got compliments at uni. Only giving 4 stars because the khaki color is slightly more yellow than in the photos.",
+      "date": "2024-12-02",
+      "rating": 4
+    },
+    {
+      "type": "complaint",
+      "content": "The plaid mini skirt quality was really disappointing. The fabric is paper-thin and you can basically see through it. For 20 euros I expected at least a lining. Had to return it.",
+      "date": "2024-09-08",
+      "rating": 1
+    }
+  ],
+  "preferences": {
+    "style": "streetwear / Y2K",
+    "favorite_colors": ["black", "khaki", "white", "vintage grey", "lavender"],
+    "price_sensitivity": "high",
+    "brand_affinity": ["Zara", "Bershka", "Urban Outfitters"],
+    "avoids": ["formal wear", "floral prints", "anything my mom would wear"],
+    "preferred_fit": "oversized",
+    "sustainability_interest": false,
+    "sale_shopper": true
+  },
+  "segments": ["youth_streetwear", "budget_conscious", "trend_follower"],
+  "member_since": "2020-09-14",
+  "loyalty_tier": "basic"
+}

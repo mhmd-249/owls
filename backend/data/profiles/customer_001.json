@@ -1,0 +1,131 @@
+{
+  "customer_id": "HM-SE-2019-00147",
+  "name": "Astrid Lindqvist",
+  "age": 28,
+  "gender": "female",
+  "location": "Stockholm, Sweden",
+  "purchase_history": [
+    {
+      "item_id": "HM-0892341",
+      "category": "Womens",
+      "subcategory": "Dresses",
+      "color": "black",
+      "size": "S",
+      "price": 34.99,
+      "date": "2024-11-15",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-0734521",
+      "category": "Womens",
+      "subcategory": "Knitwear",
+      "color": "cream",
+      "size": "S",
+      "price": 29.99,
+      "date": "2024-10-22",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-0651234",
+      "category": "Womens",
+      "subcategory": "Jeans",
+      "color": "light blue",
+      "size": "36",
+      "price": 39.99,
+      "date": "2024-09-08",
+      "returned": true,
+      "return_reason": "Too tight around the waist, needed a size up"
+    },
+    {
+      "item_id": "HM-0651235",
+      "category": "Womens",
+      "subcategory": "Jeans",
+      "color": "light blue",
+      "size": "38",
+      "price": 39.99,
+      "date": "2024-09-12",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-0445612",
+      "category": "Womens",
+      "subcategory": "Tops",
+      "color": "white",
+      "size": "S",
+      "price": 14.99,
+      "date": "2024-08-03",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-0998712",
+      "category": "Conscious",
+      "subcategory": "T-shirts",
+      "color": "sage green",
+      "size": "S",
+      "price": 19.99,
+      "date": "2024-07-18",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-0312456",
+      "category": "Accessories",
+      "subcategory": "Scarves",
+      "color": "beige",
+      "size": "one size",
+      "price": 12.99,
+      "date": "2024-06-25",
+      "returned": false,
+      "return_reason": null
+    },
+    {
+      "item_id": "HM-0567891",
+      "category": "Womens",
+      "subcategory": "Blazers",
+      "color": "navy",
+      "size": "36",
+      "price": 49.99,
+      "date": "2024-05-14",
+      "returned": false,
+      "return_reason": null
+    }
+  ],
+  "browsing_behavior": {
+    "categories_viewed": ["Womens", "Conscious", "New Arrivals", "Divided"],
+    "time_spent_minutes": 42,
+    "items_wishlisted": 12,
+    "collections_browsed": ["Conscious Exclusive", "Studio Collection", "Autumn Essentials"],
+    "search_queries": ["organic cotton t-shirt", "recycled polyester dress", "sustainable basics", "linen trousers"]
+  },
+  "feedback_history": [
+    {
+      "type": "review",
+      "content": "Love the Conscious collection tee! The organic cotton feels so much softer than the regular line. Wish there were more color options though.",
+      "date": "2024-07-25",
+      "rating": 4
+    },
+    {
+      "type": "survey",
+      "content": "I shop at H&M mainly for everyday basics and sustainable options. Would love to see more transparency about factory conditions. The garment collecting program is a great initiative but I never know what actually happens to the clothes.",
+      "date": "2024-10-01",
+      "rating": null
+    }
+  ],
+  "preferences": {
+    "style": "Scandinavian minimalist",
+    "favorite_colors": ["black", "white", "cream", "sage green", "navy"],
+    "price_sensitivity": "medium",
+    "brand_affinity": ["COS", "& Other Stories", "Arket"],
+    "avoids": ["fast fashion polyester", "animal leather", "bold prints"],
+    "preferred_fit": "relaxed",
+    "sustainability_interest": true,
+    "sale_shopper": false
+  },
+  "segments": ["sustainable_fashion", "basics_buyer", "workwear_professional"],
+  "member_since": "2019-03-12",
+  "loyalty_tier": "gold"
+}
