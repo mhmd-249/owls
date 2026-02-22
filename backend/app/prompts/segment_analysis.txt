@@ -1,0 +1,15 @@
+Analyze how this specific customer segment reacted to the product:
+
+SEGMENT: {segment_name} ({segment_count} customers)
+PRODUCT: {product_description}
+
+RESPONSES FROM THIS SEGMENT:
+{segment_responses}
+
+Provide:
+1. Segment sentiment (positive/mixed/negative)
+2. What this segment cares about most
+3. Key quotes that represent this segment's view
+4. Specific recommendation for targeting this segment
+
+Keep it concise — 3-4 sentences per point.
