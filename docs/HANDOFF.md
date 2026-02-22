@@ -1,7 +1,7 @@
 # CrowdTest — Session Handoff
 
 ## Current Status
-- **Last completed phase:** Phase 1 (Profile-to-Prompt Pipeline)
+- **Last completed phase:** Phase 2 (Agent Execution Engine)
 - **Date:** 2026-02-22
 
 ## Pre-Phase: Initial Setup
@@ -33,9 +33,29 @@
 - [x] Prompt templates already in place (`agent_persona.txt`, `agent_evaluation.txt`)
 - [x] 13 tests passing in `tests/test_profile_builder.py`
 
+## Phase 2: Agent Execution Engine
+- [x] Prompt Manager service (`app/services/prompt_manager.py`)
+  - Loads and caches prompt templates from `app/prompts/`
+  - `format_agent_prompt()` — wraps persona with instructions (detects pre-existing instructions)
+  - `format_evaluation_prompt()` — formats product description into user message
+- [x] Agent Runner service (`app/services/agent_runner.py`)
+  - `AgentRunner` class with `asyncio.Semaphore` rate limiting
+  - `run_single_agent()` — calls Claude API with persona system prompt, handles errors gracefully
+  - `run_all_agents()` — parallel execution via `asyncio.gather`, supports callback for SSE streaming
+  - `detect_sentiment()` — keyword-based MVP sentiment detection (positive/negative/neutral)
+- [x] Pydantic models in `schemas.py` already correct from Pre-Phase
+- [x] 198 persona files in `data/processed/` with manifest.json (from earlier pipeline run)
+  - Manifest uses hashed IDs, fields: persona_file, display_name, age, purchase_count, segments, club_member_status
+- [x] Live test: 5 agents responded in 7.6s (well under 30s limit)
+  - Responses are realistic and persona-specific
+  - Callback mechanism verified for SSE streaming
+  - Sentiment detection labels correct
+- [x] 20 total tests passing (13 Phase 1 + 7 Phase 2)
+
 ## Known Issues
 - Python 3.13 is available system-wide with pytest; python3 (3.12) lacks pytest. Use `python3.13` to run tests.
+- Manifest persona_file paths are relative to project root (e.g., `backend/data/processed/persona_000_alex.txt`), agent_runner handles this with fallback resolution.
 
 ## Next Phase
-Phase 2: Agent Execution Engine (Parallel Claude Calls)
+Phase 3: SSE Streaming & Aggregation Engine
 - See IMPLEMENTATION_GUIDE.md for the full prompt
